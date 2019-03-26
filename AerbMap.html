@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Grid coordinates - Leaflet</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+
+	<style>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+            #map {
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+
+	
+</head>
+<body>
+
+<div id='map'></div>
+
+<script type="text/javascript">
+    var imgLoopWidth = 5994;
+    var imgLoopHeight = 3464;
+    var img = "url(aerbtile.png)";
+    var maxZoom = 4;
+    var tileWidth = 128;
+
+    var myCRS = L.CRS.Simple;
+    var mapMaxResolution = 21726.14; //meters per pixel of most zoomed in image
+    var mapMinResolution = Math.pow(2, maxZoom) * mapMaxResolution;
+    myCRS.scale = function(zoom) {return Math.pow(2, zoom) / mapMinResolution;};  myCRS.zoom = function(scale) {return Math.log(scale * mapMinResolution) / Math.LN2;  };
+
+    function fixedMod(x,n) {
+        //x%n
+        return ((x%n)+n)%n;
+    };
+
+	var map = L.map('map', {
+        crs: myCRS,
+		center: [0, 0],
+		zoom: 0,
+        minZoom: 0,
+        maxZoom: maxZoom,
+        
+	});
+
+	L.GridLayer.LoopImage = L.GridLayer.extend({
+		createTile: function (coords, done) {
+			var tile = document.createElement('div');
+            var width = Math.pow(2, maxZoom - coords.z);
+
+			//tile.innerHTML = [coords.x, coords.y, coords.z,"<br>",width].join(', ');
+			//tile.style.outline = '1px solid blue';
+
+            tile.style.backgroundImage=img;
+            var offsetX = -coords.x*tileWidth;
+            var offsetY = -coords.y*tileWidth;
+            tile.style.backgroundPosition= offsetX.toString()+"px "+offsetY.toString()+"px";
+            tile.style.backgroundSize=(imgLoopWidth/width).toString()+"px";
+
+			setTimeout(function () {
+					done(null, tile);	// Syntax is 'done(error, tile)'
+			}, 0);
+
+			return tile;
+		}
+	});
+	
+	L.gridLayer.loopImage = function(opts) {
+		return new L.GridLayer.LoopImage(opts);
+	};
+
+
+    layer = L.gridLayer.loopImage({
+        tileSize:tileWidth,
+        attribution: 'Map of Aerb from <a href=\"https://archiveofourown.org/works/11478249/chapters/25740126\">Worth the Candle</a> by Alexander Wales.', 
+        }).addTo(map);
+	//map.addLayer( L.gridLayer.debugCoords() );
+
+
+    L.control.scale().addTo(map);
+	
+</script>
+
+
+
+</body>
+</html>
