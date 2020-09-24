@@ -1,0 +1,169 @@
+<b>[Name]:</b> For [Duration], [Effect]
+
+{Name}
+[prefix] [suffix]
+
+{prefix}
+Manticore Orchid
+Imperial Dragon
+Red-Blooded Rose
+Lemon-Scented Sticky
+Prismatic Bloom
+Divine Aloe
+Cardamom Kiss
+Tepid Dill
+Midnight
+Shimmering
+Unforgivable
+Uninhibited
+Seduction of
+True Heart’s
+Barbarian Thew
+Princess Chamber
+Killer Queen’s
+Romantic Rogue’s
+Morgankaiden’s Mature
+Lich Prince’s Everlasting
+
+{suffix}
+Water
+Musk
+Rain
+Pearl
+Elixir
+Heaven
+Eternity
+Allure
+Fantasy
+Sweetness
+Sparkle
+Potency
+Heat Ultimate
+Gold Rush
+Juice
+Fire Breath
+Sin
+Love Dew
+Flirtation
+No. 9
+
+{Duration}
+[6+2d6] hours
+[1d6] days
+[2d6] days
+
+{6+2d6}
+8
+9
+9
+10
+10
+10
+11
+11
+11
+11
+12
+12
+12
+12
+12
+13
+13
+13
+13
+13
+13
+14
+14
+14
+14
+14
+15
+15
+15
+15
+16
+16
+16
+17
+17
+18
+
+{1d6}
+1
+2
+3
+4
+5
+6
+
+{2d6}
+2
+3
+3
+4
+4
+4
+5
+5
+5
+5
+6
+6
+6
+6
+6
+7
+7
+7
+7
+7
+7
+8
+8
+8
+8
+8
+9
+9
+9
+9
+10
+10
+10
+11
+11
+12
+
+
+
+{Effect}
+you have a powerful pheromonal scent. [creaturetype] are enamored with you. At the same time,[creaturetype] are revolted by you, seeking out to harm you specifically and unrelentingly.
+The perfumed skin begins to redden and itch distractingly, increasing odds of the subject being surprised by 1 in 6 and giving a penalty of -1 in 6 to picking locks. Intermittent sneezing gives a -1 in 6 penalty to Stealth. The swelling grows for the duration, until at the end of it, the bulb of skin harmlessly falls off. It animates as a skin tag golem (stats as a homunculus) that cannot speak but obeys its “progenitor”. The golem lives for 1d6 days.
+all who meet you become keenly aware of the shortest path to you and can track you unerringly.
+you have +2 to saving throws against magical effects and becomes invisible to elves and fey creatures.
+a fume haze makes you harder to hit, granting +2 AC. You automatically fail your next saving throw against fire. The next time you take fire damage, the damage is doubled, and the effect then ends.
+you experience infinite pleasure in every moment of existence. No discomfort or mishap can unsettle you. you become immune to fear, charm, and possession, cannot be surprised, and gain +50% bonus experience. The effect spreads to anyone who touches their lips to yours. At the end of the duration, you and all others affected crash down to reality, which now feels like infinite pain. You take 1 die of permanent damage each exploration turn, until you either stop the pain by applying more perfume, or the anguish kills you.
+
+{creaturetype}
+Human males
+Human females
+Dwarves
+Elves
+Halflings
+Goblinoids
+Orcs and trolls
+Kobolds and lizardfolk
+Lizards and snakes0
+Dogs, wolves, werewolves, bears, badgers, etc.
+Cats, tigers, weretigers, hyenas, gnolls, mongooses, etc.
+Rodents and monkeys
+Horses, donkeys, camels, deer, etc.
+Birds
+Dragons, hydra, wyverns, etc.
+Insects and spiders
+Fish, amphibians, toadmen, etc.
+Corporeal undead 
+Spectral undead and elementals
+Oozes and octopi

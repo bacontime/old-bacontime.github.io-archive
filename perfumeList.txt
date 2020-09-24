@@ -1,0 +1,149 @@
+<b>[Name]:</b> For [Duration], [Effect]
+
+{Name}
+[prefix] [suffix]
+
+{prefix}
+Manticore Orchid
+Imperial Dragon
+Red-Blooded Rose
+Lemon-Scented Sticky
+Prismatic Bloom
+Divine Aloe
+Cardamom Kiss
+Tepid Dill
+Midnight
+Shimmering
+Unforgivable
+Uninhibited
+Seduction of
+True Heart’s
+Barbarian Thew
+Princess Chamber
+Killer Queen’s
+Romantic Rogue’s
+Morgankaiden’s Mature
+Lich Prince’s Everlasting
+
+{suffix}
+Water
+Musk
+Rain
+Pearl
+Elixir
+Heaven
+Eternity
+Allure
+Fantasy
+Sweetness
+Sparkle
+Potency
+Heat Ultimate
+Gold Rush
+Juice
+Fire Breath
+Sin
+Love Dew
+Flirtation
+No. 9
+
+{Duration}
+[6+2d6] hours
+[1d6] days
+[2d6] days
+
+{6+2d6}
+8
+9
+9
+10
+10
+10
+11
+11
+11
+11
+12
+12
+12
+12
+12
+13
+13
+13
+13
+13
+13
+14
+14
+14
+14
+14
+15
+15
+15
+15
+16
+16
+16
+17
+17
+18
+
+{1d6}
+1
+2
+3
+4
+5
+6
+
+{2d6}
+2
+3
+3
+4
+4
+4
+5
+5
+5
+5
+6
+6
+6
+6
+6
+7
+7
+7
+7
+7
+7
+8
+8
+8
+8
+8
+9
+9
+9
+9
+10
+10
+10
+11
+11
+12
+
+
+
+{Effect}
+[pheremone]
+[allergy]
+[scent]
+[coating]
+[flam]
+[utter]
+
+{pheremone}
