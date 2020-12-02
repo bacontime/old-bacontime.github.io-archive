@@ -1,0 +1,3 @@
+---
+title: Emojistein - Einstein's classic paper on special relativity, but ruined.
+description: I took a translation of the famous Einstein thingy and made it much worse by replacing all the latin variables with emoji variables.
