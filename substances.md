@@ -186,3 +186,43 @@ description: Several list of magical substances along with the properties that m
 9. cuttlebone
 10. carbon fiber
 11. marble berry
+
+
+## Additional substances from rpg social media
+
+### [Maxcan's Element Generator](http://weirdwonderfulworlds.blogspot.com/2020/07/element-generator.html)
+
+1. Song-glass - frost that contains info and dissolves into radio static
+2. Popstone - cyan sand which explodes like a storm when agitated
+3. Godrend - weird swap meat, absorbs properties, jiggles at night
+4. Shadowbrine - dead light, when 'fermented' on a surface, slowly causes an object to grow which casts a shadow in the shape of the brine.
+
+### [Some elemental chaos from the Renaissance Woodsman](https://renaissancewoodsman.wordpress.com/2021/01/11/100-planes-part-one-the-elements/)
+
+17. Rimefire - Bluegreen flames which burn liquid into ice
+18. Flowsteel - black metal which flows like water but is solid like steel. "You can run along the surface, if the tumultuous movement doesn’t batter and throw you."
+19. Pureglass - perfectly invisible stone.
+20. Slowstorm - wind that steadily pushes and lightning that arcs at a leisurely jog.
+1. Temora's Red Fungus - nutritious, healing properties, but takes root in your body. Infection removes pain and fear of death, gives fear of fire and acid. Blooms out of an infectee's corpse.
+
+### [Metals of the Many Planes](https://www.gmbinder.com/share/-M-mdGRNm2-f66yo-DYw)
+1. Inferno Crystals - any damage cuase the whole crystal to burst into a towering inferno
+2. Prismatic Ice - Can't melt. Work it like metal.
+3. Gaia crystals - incredibly magical. Will create earth elementals if you leave them in contact with the ground.
+4. Voidmetal - acn be shifted into immateriality. Sticks to shadows and vice versa
+5. Etherplasm - can be alloyed with other substances to allow them to hit ghosts.
+6. Hallowed steel - protects from evil, but also can explode if exposed to too much evil
+7. Idyllium - Looks different to each person, but also supernaturally beautiful
+8. Heart Stones - radiate contentment euphoria and stupor
+9. Clay of Life - Can be molded to create great beasts of power
+10. Ivorite - Harvested from lawful creatures, promotes order
+11. Valhallium - readily deals in death. Makes the best weapons and armor, but cannot otherwise be enchanted.
+12. Mechanite- always has the perfect properties for its purpose
+13. Meld - pure chaos. Takes any form you imagine. Very dangerous to all but the most skilled of users
+14. Acher Obsidian -  Forms in perfect polyhedra, retains perfect geometric form even when worked.
+15. Shrieking Steel - Normal metal, but full of dead ghosts. Inexplicably disturbing
+16. Hellstone - Glows softly pulsing red. Oxidizes into matte black. When crushed or in contact with holy magic or fresh water, explodes in a black fireball that burns even devils
+17. Styxium - anything imbued with the propeteries of the river Styx. Metal is safer to work with than water
+18. Daemon Iron - Blocks mind altering effects, can calm others, but also causes the weilder to slowly lose conviction and emotion
+19. Titanium - deadly to celestials lol
+20. Aximium - Forms itself into weaponry, whispers to those nearby corrupting them to unspeakable acts.
