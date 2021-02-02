@@ -5,18 +5,8 @@
     dl,dd {font-size: .9rem;}
     dd {margin-bottom: 1em;}
 </style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
-<main>
-
-<!--This is where all the pretty pictures will go.-->
-<svg viewBox="0 0 10000 1" style=" background-color:#00000010;" id="hexCanvas"></svg>
-
-<!--This is where the text will go.-->
-<div id="textHolder" style="min-width: 20rem; padding:1rem;">Can I have an embedded svg like so:</div>
-
-</main>
 
 <script>
 //✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
@@ -877,6 +867,31 @@ var hexMap = {
 
 
 
+<main>
+
+    <!--This is where all the pretty pictures will go.-->
+    <svg viewBox="0 0 10000 1" style=" background-color:#00000010;" id="hexCanvas"></svg>
+    
+    <!--This is where the text will go.-->
+    <div id="textHolder" style="min-width: 20rem; padding:1rem;">Click on a hex.</div>
+    
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--The rest of this file is just janky code to turn the list into an interactive map. You hopefully don't need to touch any of this stuff.-->
 <script>
@@ -954,7 +969,7 @@ var hexMap = {
         hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
         hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
         //now do some syntax shenanigans to build a group with background, coordinate text, and faction text.
-        svgGroup = `<g id="`+hex.id+`">`
+        svgGroup = `<g id="`+hex.id+`" onClick="clickHex(this.id)">`
         svgGroup += createHexagon(hexX,hexY,hexOuterRadius,hexMap.landformColors[hex.landform],"black", hex.id);
         svgGroup += createText(hexX,hexY,hexOuterRadius*0.6,hexMap.factionColors[hex.faction], "black", hex.col+"."+hex.row);
         svgGroup += createText(hexX,hexY+hexInnerRadius*0.4,hexOuterRadius*0.2,hexMap.factionColors[hex.faction], "none", hex.faction);
@@ -977,9 +992,7 @@ var hexMap = {
 
     function rD(i){return i[Math.floor(Math.random()*i.length)];}
 
-    $("g").click(function() {
-        console.log($(this).attr("id"));   
-        hexID = $(this).attr("id");
+    function clickHex(hexID){
         hex = hexMap.hexes.filter(function(hex){return hex.id == hexID})[0];//sorry
         console.log(hex);
 
@@ -1013,10 +1026,6 @@ var hexMap = {
         textContent = textContent.replace("OMENPLACEHOLDER",encounterdraw.omen);
         textContent = textContent.replace("ENCOUNTERPLACEHOLDER",encounterdraw.event);
         textHolder.innerHTML = textContent;
-    });
-
-    function clickHex(id){
-        return hex;
     }
 
 </script>
