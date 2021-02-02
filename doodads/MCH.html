@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<style>body {margin: 0;}</style>
+
+
+<main style="display: flex;">
+
+<!--This is where all the pretty pictures will go.-->
+<svg viewBox="0 0 10000 1" style=" background-color:black;" id="hexCanvas"></svg>
+
+<!--This is where the text will go.-->
+<div id="textHolder" style="min-width: 20rem;">Can I have an embedded svg like so:</div>
+
+</main>
+
+<script>
+//✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+//=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+//Map Info
+//The Object below is what you want to modify in order to tweak the map content
+//=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+//✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+var hexGrid = {
+    hexes: [
+        {row:1,col:1, faction:"Neutral", landform:"Wastes",
+            terrain: `Gray and rust-orange dirt, sickly brown grass. Metal beams protrude.`,
+            obviousFeature: ``,
+            hiddenFeature: ``,
+        }
+    ]
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--The rest of this file is just janky code to turn the list into an interactive map. You hopefully don't need to touch any of this stuff.-->
+<script>
+    //define the parameters for the hex map.
+    var numColumns = 8;
+    var numRows = 10;
+    var hexOuterRadius = 100; 
+    var hexInnerRadius = hexOuterRadius * Math.sqrt(3)/2; 
+    
+    //calculate internal dimensions of map, assuming hexes are oriented with flat side on top.
+    var totalWidth = hexOuterRadius * (numColumns + Math.ceil(numColumns/2)); //TODO not quite right. side bit cut off
+    var totalheight = hexInnerRadius * (2 * numRows + 1);
+
+    //set up the svg to use as a canvas
+    var canvas = document.getElementById("hexCanvas");
+    //scale the svg height to the window height. I dunno. I think it looks nice that way. Will probably look turbo janky on mobile. Note the body {margin: 0;} up top that makes this work.
+    canvas.setAttribute("height", window.innerHeight);
+    //Fiddle with the interior dimensions of the svg to make it the right size for the hex grid.
+    canvas.setAttribute("viewBox", "0 0 " + totalWidth + " " + totalheight);
+
+    //------------------------------------
+    // Functions for building the map
+    //------------------------------------
+    
+    function addToCanvas(addedContent) {
+        //This function just takes a string and appends it to the inside of the canvas svg.
+        canvasContent = canvas.innerHTML;
+        console.log(addedContent);
+        canvas.innerHTML += addedContent;
+    }
+
+    function translatePoint(x,y,theta,r) {
+        newy = y+r*Math.sin(theta);
+        newx = x+r*Math.cos(theta);
+        return [newx,newy];
+    }
+    function createHex(x,y,r,fill,stroke){
+        //base angle and incremental angle
+        var ba = 0;
+        var ia = Math.PI/3;
+        //find vertices
+        var vertices = [];
+        for (var i = 0; i < 6; i++) { 
+            vertices[i] = translatePoint(x,y,ba+i*ia,r);
+        }
+        console.log(vertices.join());
+        //translate all this info into svg format.
+        var svgHex = `<polygon points="POINTSPLACEHOLDER" fill="FILLPLACEHOLDER" stroke="STROKEPLACEHOLDER"/>`;
+        svgHex = svgHex.replace("FILLPLACEHOLDER",fill);
+        svgHex = svgHex.replace("STROKEPLACEHOLDER",stroke);
+        svgHex = svgHex.replace("POINTSPLACEHOLDER",vertices.join());
+        return svgHex;
+    }
+    
+    addToCanvas(createHex(0,0,hexInnerRadius,"red","green"));
+
+</script>
+
+<!--Here's an implementation of a similar concept using an actual canvas element: https://www.rareese.com/blog/hexagonjs-->
+
+
+
