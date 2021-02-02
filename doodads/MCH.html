@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <style>body {margin: 0;}</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
 <main style="display: flex;">
 
 <!--This is where all the pretty pictures will go.-->
-<svg viewBox="0 0 10000 1" style=" background-color:black;" id="hexCanvas"></svg>
+<svg viewBox="0 0 10000 1" style=" background-color:#00000010;" id="hexCanvas"></svg>
 
 <!--This is where the text will go.-->
 <div id="textHolder" style="min-width: 20rem;">Can I have an embedded svg like so:</div>
@@ -22,11 +23,11 @@
 
 var hexMap = {
     landformColors: {
-        "Badlands": "yellow",
-        "Barren Fells": "grey",
-        "Bluffs": "white",
-        "Savannah": "green",
-        "Wastes": "brown",
+        "Badlands": "PaleGoldenRod",
+        "Barren Fells": "DimGray",
+        "Bluffs": "Gainsboro",
+        "Savannah": "YellowGreen",
+        "Wastes": "DarkGoldenRod",
     },
     hexes: [
         {col:1, row:1, faction:"Neutral", landform:"Wastes", 
@@ -179,7 +180,7 @@ var hexMap = {
             obviousFeature: "Stone throne covered in mold and fungal growth. Galleries of faceless kneeling statues. ", 
             hiddenFeature: "Gold-plated mushroom effigy under the mold. A new species of fungus grows in its vicinity every day. ", 
         },
-        {col:4, row:1, faction:"Protean Army", landform:"Bluffs ", 
+        {col:4, row:1, faction:"Protean Army", landform:"Bluffs", 
             terrainFeature: "Oily rivulets bounded by yellow- streaked crumbling cliff faces.  ", 
             obviousFeature: "Metal-meat hybrid transport barracks halted for repairs. Wild animals fight nearby for cast-off scraps. ", 
             hiddenFeature: "A wurm nest lies calcified in a rock formation. It’s petrified occupants will reawaken if the area floods. ", 
@@ -289,7 +290,7 @@ var hexMap = {
             obviousFeature: "Floating city-state of Geodesia, ruled by iron-fisted immortal sorcerer-queen Ica. Major trade centre. ", 
             hiddenFeature: "Fissure filled with solidified souls of political dissidents in gem form. Guarded by lesser criminals. ", 
         },
-        {col:6, row:3, faction:"Rust Monks", landform:"Wastes ", 
+        {col:6, row:3, faction:"Rust Monks", landform:"Wastes", 
             terrainFeature: "Pits of bubbling tar. Heat- distorted petrified trees.  ", 
             obviousFeature: "Mounds of moaning, rusted swords. Monks ritually bind slain souls to the blades that slew them. ", 
             hiddenFeature: "Wurm-cultist shrine in copse of red cacti. Desiccated worm eyes. Eye-shapes carved into shrine. ", 
@@ -478,19 +479,19 @@ var hexMap = {
     //define the parameters for the hex map.
     var numColumns = 8;
     var numRows = 10;
-    var hexOuterRadius = 100; 
+    var hexOuterRadius = 20; 
     var hexInnerRadius = hexOuterRadius * Math.sqrt(3)/2; 
     
     //calculate internal dimensions of map, assuming hexes are oriented with flat side on top.
-    var totalWidth = hexOuterRadius * (numColumns + Math.ceil(numColumns/2)); //TODO not quite right. side bit cut off
+    var totalWidth = hexOuterRadius * (numColumns + Math.ceil(numColumns/2) + 0.5); //TODO not quite right. side bit cut off
     var totalheight = hexInnerRadius * (2 * numRows + 1);
 
     //set up the svg to use as a canvas
     var canvas = document.getElementById("hexCanvas");
     //scale the svg height to the window height. I dunno. I think it looks nice that way. Will probably look turbo janky on mobile. Note the body {margin: 0;} up top that makes this work.
-    canvas.setAttribute("height", window.innerHeight);
+    //canvas.setAttribute("height", window.innerHeight);
     //Fiddle with the interior dimensions of the svg to make it the right size for the hex grid.
-    canvas.setAttribute("viewBox", "0 0 " + totalWidth + " " + totalheight);
+    canvas.setAttribute("viewBox", "-1 -1 " + (totalWidth+2) + " " + (totalheight+2));
 
     //------------------------------------
     // Functions for building the map
@@ -526,6 +527,20 @@ var hexMap = {
         return svgHex;
     }
     
+    function createText(x,y,h,fill,stroke, text){
+        var svgText = `<text x="XPLACEHOLDER" y="YPLACEHOLDER" dominant-baseline="middle" text-anchor="middle" style="font-family: fantasy;" fill="red">TEXTPLACEHOLDER</text>`;
+        svgText = svgText.replace("XPLACEHOLDER",x);
+        svgText = svgText.replace("YPLACEHOLDER",y);
+        svgText = svgText.replace("TEXTPLACEHOLDER",text);
+        return svgText;
+    } 
+
+    fucntion createHex(hex) {
+        //pass in a hex object from the hexMap definition above, and this will convert it into an svg group form.
+        svgGroup
+
+    }
+
     //------------------------------------
     // Now we actually build it.
     //------------------------------------
@@ -534,13 +549,24 @@ var hexMap = {
         //calc position of center of hex
         hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
         hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
+
         hexFill = hexMap.landformColors[hex.landform];
         hexStroke = "black";
         hexID = "hex"+hex.col+","+hex.row;
         addToCanvas(createHex(hexX,hexY,hexOuterRadius,hexFill,hexStroke,hexID));
+
+        Textfill = "red";
+        addToCanvas(createText(hexX,hexY,hexOuterRadius/10,Textfill,"none",hex.col+"."+hex.row));
     }
 
-    addToCanvas(createHex(0,0,hexOuterRadius,"red","green","burrito"));
+
+    //------------------------------------
+    // Handle clicks on the hexes.
+    //------------------------------------
+
+    $("polygon").click(function() {
+        console.log($(this).attr("id"));        
+    });
 
 </script>
 
