@@ -1,15 +1,20 @@
 <!DOCTYPE html>
-<style>body {margin: 0;}</style>
+<style>
+    body {margin: 0;}
+    dt {font-weight: bold;}
+    dl,dd {font-size: .9rem;}
+    dd {margin-bottom: 1em;}
+</style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
-<main style="display: flex;">
+<main>
 
 <!--This is where all the pretty pictures will go.-->
 <svg viewBox="0 0 10000 1" style=" background-color:#00000010;" id="hexCanvas"></svg>
 
 <!--This is where the text will go.-->
-<div id="textHolder" style="min-width: 20rem;">Can I have an embedded svg like so:</div>
+<div id="textHolder" style="min-width: 20rem; padding:1rem;">Can I have an embedded svg like so:</div>
 
 </main>
 
@@ -24,10 +29,18 @@
 var hexMap = {
     landformColors: {
         "Badlands": "PaleGoldenRod",
-        "Barren Fells": "DimGray",
+        "Barren Fells": "DarkGrey",
         "Bluffs": "Gainsboro",
         "Savannah": "YellowGreen",
-        "Wastes": "DarkGoldenRod",
+        "Wastes": "SandyBrown",
+    },
+    factionColors: {
+        "Neutral": "black",
+        "Kalawi Tribe": "Purple",
+        "Researchers": "Green",
+        "Rust Monks": "	#B7410E",
+        "Protean Army": "#0F52BA",
+        "Pallid Knights": "White",
     },
     hexes: [
         {col:1, row:1, id:"hex1.1", faction:"Neutral", landform:"Wastes", 
@@ -420,7 +433,7 @@ var hexMap = {
             obviousFeature: "Pallid Knight citadel mounting desperate defense against waves of Protean soldiers. No clear victor. ", 
             hiddenFeature: "On a mountain summit, a steel seed, oblong in shape, the size of a person. Sprouting roots into the rock. ", 
         },
-        {col:8, row:9, id:"hex8.9", faction:"[Faction]", landform:"Badlands", 
+        {col:8, row:9, id:"hex8.9", faction:"Neutral", landform:"Badlands", 
             terrainFeature: "Lilac coloured desert with oases of green crystal formations. ", 
             obviousFeature: "Giant crimson crane flies flitting from crystal to crystal, feeding on them via a huge proboscis. ", 
             hiddenFeature: "Team of hunters seeking fly larvae, which is considered a delicacy by the Kalawi Tribe. ", 
@@ -431,30 +444,12 @@ var hexMap = {
             hiddenFeature: "Murdered messenger, bag full of maps and vital commands. A trick, a traitor, or a tragic accident?  ", 
         },
     ],
+    encounters: {
+
+    }
 }
 
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -509,7 +504,7 @@ var hexMap = {
         newx = x+r*Math.cos(theta);
         return [newx,newy];
     }
-    function createHex(x,y,r,fill,stroke, id){
+    function createHexagon(x,y,r,fill,stroke, id){
         //base angle and incremental angle
         var ba = 0;
         var ia = Math.PI/3;
@@ -526,19 +521,36 @@ var hexMap = {
         svgHex = svgHex.replace("IDPLACEHOLDER",id);
         return svgHex;
     }
-    
-    function createText(x,y,h,fill,stroke, text){
-        var svgText = `<text x="XPLACEHOLDER" y="YPLACEHOLDER" dominant-baseline="middle" text-anchor="middle" style="font-family: fantasy;" fill="red">TEXTPLACEHOLDER</text>`;
+        
+    function createText(x,y,h,fill, stroke, text){
+        var svgText = `<text x="XPLACEHOLDER" y="YPLACEHOLDER" 
+            dominant-baseline="middle" text-anchor="middle" 
+            style="font-family: sans-serif;" font-size="FONTSIZEPLACEHOLDER" font-weight="bold"
+            fill="FILLPLACEHOLDER" 
+            stroke="STROKEPLACEHOLDER" stroke-opacity="0" stroke-width="0.3">
+                TEXTPLACEHOLDER
+            </text>`;
         svgText = svgText.replace("XPLACEHOLDER",x);
         svgText = svgText.replace("YPLACEHOLDER",y);
+        svgText = svgText.replace("FILLPLACEHOLDER",fill);
+        svgText = svgText.replace("STROKEPLACEHOLDER",stroke);
+        svgText = svgText.replace("FONTSIZEPLACEHOLDER",h);
         svgText = svgText.replace("TEXTPLACEHOLDER",text);
         return svgText;
     } 
 
-    fucntion createHex(hex) {
-        //pass in a hex object from the hexMap definition above, and this will convert it into an svg group form.
-        svgGroup = `<g>`
-
+    function createHexGroup(hex) {
+        //pass in a hex object from the hexMap definition way up top, and this will convert it into an svg group form.
+        //first, do some math to figure out the centerpoint of the hex
+        hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
+        hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
+        //now do some syntax shenanigans to build a group with background, coordinate text, and faction text.
+        svgGroup = `<g id="`+hex.id+`">`
+        svgGroup += createHexagon(hexX,hexY,hexOuterRadius,hexMap.landformColors[hex.landform],"black", hex.id);
+        svgGroup += createText(hexX,hexY,hexOuterRadius*0.6,hexMap.factionColors[hex.faction], "black", hex.col+"."+hex.row);
+        svgGroup += createText(hexX,hexY+hexInnerRadius*0.4,hexOuterRadius*0.2,hexMap.factionColors[hex.faction], "none", hex.faction);
+        svgGroup += `</g>`;
+        return svgGroup;
     }
 
     //------------------------------------
@@ -546,17 +558,7 @@ var hexMap = {
     //------------------------------------
 
     for (var hex of hexMap.hexes){
-        //calc position of center of hex
-        hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
-        hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
-
-        hexFill = hexMap.landformColors[hex.landform];
-        hexStroke = "black";
-        hexID = "hex"+hex.col+","+hex.row;
-        addToCanvas(createHex(hexX,hexY,hexOuterRadius,hexFill,hexStroke,hexID));
-
-        Textfill = "red";
-        addToCanvas(createText(hexX,hexY,hexOuterRadius/10,Textfill,"none",hex.col+"."+hex.row));
+        addToCanvas(createHexGroup(hex));
     }
 
 
@@ -564,13 +566,50 @@ var hexMap = {
     // Handle clicks on the hexes.
     //------------------------------------
 
-    $("polygon").click(function() {
-        console.log($(this).attr("id"));        
+    $("g").click(function() {
+        console.log($(this).attr("id"));   
+        hexID = $(this).attr("id");
+        hex = hexMap.hexes.filter(function(hex){return hex.id == hexID})[0];//sorry
+        console.log(hex);
+
+        textHolder = document.getElementById("textHolder");
+
+        textContent = `<h3>HEADERPLACEHOLDER</h3>
+                        <dl>
+                            <dt>Terrain:</dt>
+                            <dd>TERRAINPLACEHOLDER</dd>
+                            <dt>Obvious Feature:</dt>
+                            <dd>OBVIOUSPLACEHOLDER</dd>
+                            <dt>Hidden Feature:</dt>
+                            <dd>HIDDENPLACEHOLDER</dd>
+                        </dl>
+                        <hr>
+                        <h3>Random Encounter:</h3>
+                        <dl>
+                            <dt>Omen:</dt>
+                            <dd>OMENPLACEHOLDER</dd>
+                            <dt>Encounter:</dt>
+                            <dd>ENCOUNTERPLACEHOLDER</dd>
+                        </dl>
+                        `;
+        textheader =  hex.col+"."+hex.row+" - "+hex.faction+" - "+hex.landform;
+        textContent = textContent.replace("HEADERPLACEHOLDER",textheader);
+        textContent = textContent.replace("TERRAINPLACEHOLDER",hex.terrainFeature);
+        textContent = textContent.replace("OBVIOUSPLACEHOLDER",hex.obviousFeature);
+        textContent = textContent.replace("HIDDENPLACEHOLDER",hex.hiddenFeature);
+
+        
+        textContent = textContent.replace("OMENPLACEHOLDER",hex.hiddenFeature);
+        textContent = textContent.replace("ENCOUNTERPLACEHOLDER",hex.hiddenFeature);
+        textHolder.innerHTML = textContent;
     });
+
+    function clickHex(id){
+        return hex;
+    }
 
 </script>
 
 <!--Here's an implementation of a similar concept using an actual canvas element: https://www.rareese.com/blog/hexagonjs-->
-
 
 

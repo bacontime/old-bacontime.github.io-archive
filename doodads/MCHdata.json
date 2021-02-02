@@ -389,7 +389,7 @@
     obviousFeature: "Pallid Knight citadel mounting desperate defense against waves of Protean soldiers. No clear victor. ", 
     hiddenFeature: "On a mountain summit, a steel seed, oblong in shape, the size of a person. Sprouting roots into the rock. ", 
 },
-{col:8, row:9, id:"hex8.9", faction:"[Faction]", landform:"Badlands", 
+{col:8, row:9, id:"hex8.9", faction:"Neutral", landform:"Badlands", 
     terrainFeature: "Lilac coloured desert with oases of green crystal formations. ", 
     obviousFeature: "Giant crimson crane flies flitting from crystal to crystal, feeding on them via a huge proboscis. ", 
     hiddenFeature: "Team of hunters seeking fly larvae, which is considered a delicacy by the Kalawi Tribe. ", 
