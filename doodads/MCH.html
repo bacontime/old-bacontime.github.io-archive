@@ -1,25 +1,23 @@
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-    body {margin: 0;}
-    dt {font-weight: bold;}
-    dl,dd {font-size: .9rem;}
-    dd {margin-bottom: 1em;}
+    body {margin: 0;}    h3 {margin-top:0;}
+    dt {font-weight: bold;}    dl,dd {font-size: .9rem;}    dd {margin-bottom: 1em;}
     main{display:flex; flex-wrap: wrap;}
-    svg {background-color:#0005; flex: 1 200px; }
-    div {padding:1rem; flex: 2 20rem; }
-    h3 {margin-top:0;}
+    svg {background-color:#0005; flex: 2 200px; }
+    div {padding:1rem; flex: 3 20rem; min-height: 120vh;}
 </style>
 <!--This is a webpage implementation of the Massive Community Hexcrawl, orchestrated by Skerples.CC BY-NC-SA 4.0, etc.
 You can find the original files here: https://coinsandscrolls.blogspot.com/2021/01/osr-massive-community-hexcrawl-complete.html
 This file is completely standalone, so you can just save itas a .html and edit it in a text editor.-->
 
-
-
 <main>
 
     <!--This is where all the pretty pictures will go.-->
-    <svg viewBox="0 0 10000 1" id="hexCanvas" preserveAspectRatio="xMidYMin meet"></svg>
+    <svg viewBox="0 0 10000 1" id="mysvg" preserveAspectRatio="xMidYMin meet">
+        <g id="hexCanvas"></g>
+        <g id="highlightCanvas"></g>
+    </svg>
     
     <!--This is where the text will go.-->
     <div id="textHolder">Click on a hex.</div>
@@ -894,6 +892,27 @@ This file is completely standalone, so you can just save itas a .html and edit i
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--The rest of this file is just janky code to turn the list into an interactive map. You hopefully don't need to touch any of this stuff.-->
 <script>
     //define the parameters for the hex map.
@@ -911,7 +930,7 @@ This file is completely standalone, so you can just save itas a .html and edit i
     //scale the svg height to the window height. I dunno. I think it looks nice that way. Will probably look turbo janky on mobile. Note the body {margin: 0;} up top that makes this work.
     //canvas.setAttribute("height", window.innerHeight);
     //Fiddle with the interior dimensions of the svg to make it the right size for the hex grid.
-    canvas.setAttribute("viewBox", "-1 -1 " + (totalWidth+2) + " " + (totalheight+2));
+    document.getElementById("mysvg").setAttribute("viewBox", "-1 -1 " + (totalWidth+2) + " " + (totalheight+2));
 
     //------------------------------------
     // Functions for building the map
@@ -1027,6 +1046,12 @@ This file is completely standalone, so you can just save itas a .html and edit i
         textContent = textContent.replace("OMENPLACEHOLDER",encounterdraw.omen);
         textContent = textContent.replace("ENCOUNTERPLACEHOLDER",encounterdraw.event);
         textHolder.innerHTML = textContent;
+
+        //this adds a little outline to the most recently clicked hex.
+        //The svg up above has a seperate group that's always on top of the canvas to make this work.
+        hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
+        hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
+        document.getElementById("highlightCanvas").innerHTML = createHexagon(hexX,hexY,hexOuterRadius*1.1,"none","black", hex.id);
     }
 
 </script>
