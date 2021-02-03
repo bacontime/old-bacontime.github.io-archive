@@ -12,7 +12,7 @@ You can find the original files here: https://coinsandscrolls.blogspot.com/2021/
 This file is completely standalone, so you can just save itas a .html and edit it in a text editor.-->
 
 <main>
-    <!--This is where all the pretty pictures will go.-->
+    <!--This is where all the pretty pictures will go. Map in the hexCanvas Group, position indicator in the highlightCanvas group, so it's always on top.-->
     <svg viewBox="0 0 10000 1" id="mysvg" preserveAspectRatio="xMidYMin meet">
         <g id="hexCanvas"></g>
         <g id="highlightCanvas"></g>
@@ -912,14 +912,14 @@ This file is completely standalone, so you can just save itas a .html and edit i
     var hexInnerRadius = hexOuterRadius * Math.sqrt(3)/2; 
     
     //calculate internal dimensions of map, assuming hexes are oriented with flat side on top.
-    var totalWidth = hexOuterRadius * (numColumns + Math.ceil(numColumns/2) + 0.5); //TODO not quite right. side bit cut off
+    var totalWidth = hexOuterRadius * (numColumns + Math.ceil(numColumns/2) + 0.5); 
     var totalheight = hexInnerRadius * (2 * numRows + 1);
 
     //set up the svg to use as a canvas
     var canvas = document.getElementById("hexCanvas");
     //scale the svg height to the window height. I dunno. I think it looks nice that way. Will probably look turbo janky on mobile. Note the body {margin: 0;} up top that makes this work.
     //canvas.setAttribute("height", window.innerHeight);
-    //Fiddle with the interior dimensions of the svg to make it the right size for the hex grid.
+    //Fiddle with the interior dimensions of the svg to make it the right size for the hex grid. 1 unit margin around the edges
     document.getElementById("mysvg").setAttribute("viewBox", "-1 -1 " + (totalWidth+2) + " " + (totalheight+2));
 
     //------------------------------------
@@ -929,17 +929,17 @@ This file is completely standalone, so you can just save itas a .html and edit i
     function addToCanvas(addedContent) {
         //This function just takes a string and appends it to the inside of the canvas svg.
         canvasContent = canvas.innerHTML;
-        //console.log(addedContent);
         canvas.innerHTML += addedContent;
     }
 
     function translatePoint(x,y,theta,r) {
+        //a snippet of math I use to build the points of a hex by moving out from the center at different angles.
         newy = y+r*Math.sin(theta);
         newx = x+r*Math.cos(theta);
         return [newx,newy];
     }
     function createHexagon(x,y,r,fill,stroke, id){
-        //base angle and incremental angle
+        //base angle and incremental angle. Changing ba to PI/6 will orient the hex with pointy side up. 
         var ba = 0;
         var ia = Math.PI/3;
         //find vertices
@@ -979,6 +979,7 @@ This file is completely standalone, so you can just save itas a .html and edit i
         hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
         hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
         //now do some syntax shenanigans to build a group with background, coordinate text, and faction text, etc.
+        //We need to group it so that we can respond to clicks on the enter thing
         svgGroup = `<g id="`+hex.id+`" onClick="clickHex(this.id)">`
         svgGroup += createHexagon(hexX,hexY,hexOuterRadius,hexMap.landformColors[hex.landform],"black", hex.id);
         svgGroup += createText(hexX,hexY,hexOuterRadius*0.6,hexMap.factionColors[hex.faction], "black", hex.col+"."+hex.row);
