@@ -308,6 +308,7 @@ This file is completely standalone, so you can just save itas a .html and edit i
                 terrainFeature: "Fissues, constant earthquakes, sparse scrub, and slothful animals. ", 
                 obviousFeature: "Floating city-state of Geodesia, ruled by iron-fisted immortal sorcerer-queen Ica. Major trade centre. ", 
                 hiddenFeature: "Fissure filled with solidified souls of political dissidents in gem form. Guarded by lesser criminals. ", 
+                symbol: "🏛️",
             },
             {col:6, row:3, id:"hex6.3", faction:"Rust Monks", landform:"Wastes", 
                 terrainFeature: "Pits of bubbling tar. Heat- distorted petrified trees.  ", 
@@ -383,6 +384,7 @@ This file is completely standalone, so you can just save itas a .html and edit i
                 terrainFeature: "Cracked shallow valleys like the creases of a mummified hand. ", 
                 obviousFeature: "Fortified town of Seraph. Empty gun-port towers, tar-coated streets, battered peacekeeper golems. ", 
                 hiddenFeature: "Invisible, cautious Researchers monitor the populace and visitors, testing, altering, and extracting. ", 
+                symbol: "🏰",
             },
             {col:7, row:8, id:"hex7.8", faction:"Pallid Knights", landform:"Barren Fells", 
                 terrainFeature: "Tilted chalky moor, studded with skeletal projections. ", 
@@ -976,11 +978,14 @@ This file is completely standalone, so you can just save itas a .html and edit i
         //first, do some math to figure out the centerpoint of the hex
         hexX = hexOuterRadius * (1.5 * hex.col - 0.5);
         hexY = hexInnerRadius * (2 * hex.row - hex.col % 2);
-        //now do some syntax shenanigans to build a group with background, coordinate text, and faction text.
+        //now do some syntax shenanigans to build a group with background, coordinate text, and faction text, etc.
         svgGroup = `<g id="`+hex.id+`" onClick="clickHex(this.id)">`
         svgGroup += createHexagon(hexX,hexY,hexOuterRadius,hexMap.landformColors[hex.landform],"black", hex.id);
         svgGroup += createText(hexX,hexY,hexOuterRadius*0.6,hexMap.factionColors[hex.faction], "black", hex.col+"."+hex.row);
         svgGroup += createText(hexX,hexY+hexInnerRadius*0.4,hexOuterRadius*0.2,hexMap.factionColors[hex.faction], "none", hex.faction);
+        if (hex.symbol){
+            svgGroup += createText(hexX,hexY-hexInnerRadius*0.6,hexOuterRadius*0.3,hexMap.factionColors[hex.faction], "none", hex.symbol);
+        }
         svgGroup += `</g>`;
         return svgGroup;
     }
