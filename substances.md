@@ -52,6 +52,7 @@ description: Several list of magical substances along with the properties that m
 43. Tiberium - Pulls metals up to the surface and concentrates them, breaks dosn living tissue
 44. Regolith - Jagged dust that is electrically attracted to you, cuts up your lungs
 45. Ichor - golden blood of the gods
+46. crem - super nurtitious soil that falls from the sky and hardens into stone
 
 ## generic interesting properties
 1. Repelled by magnets
