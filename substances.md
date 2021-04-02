@@ -54,6 +54,9 @@ description: Several list of magical substances along with the properties that m
 45. Ichor - golden blood of the gods
 46. crem - super nurtitious soil that falls from the sky and hardens into stone
 
+1. [Xirang](https://en.wikipedia.org/wiki/Xirang) - Swelling mold, living earth. It's soil with the capacity to absorb water and grow, saving the people from an encroaching flood.
+2. [Eitr](https://en.wikipedia.org/wiki/Eitr) - Life-giving poison which spawned the first giant.
+
 ## generic interesting properties
 1. Repelled by magnets
 2. dowsing
