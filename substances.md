@@ -165,6 +165,8 @@ description: Several list of magical substances along with the properties that m
 37. Umumium - Hesitant element - needs time to get used to new situations before reacting
 38. arretium - gas which causes people to temporarily halt - tends to accumulate in important high traffic places
 39. Shardblades - cleaves through everything but flesh and aluminium. Perfect cut through inorganic. Ignores living tissue, severs soul.
+40. Wtc wood that counts as blood for magical purposes
+41. WtC "metals that turned soft like putty when you sang to them"
 
 
 ## "Ingredients" from Toriko
