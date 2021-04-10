@@ -66,4 +66,33 @@
 - Warp using Raven's entad to Nels Bilo (ch 210)
 - Perisev moves in the direction of Anglecynn, goes somewhere near the Achrish Grass Desert.
 - Mary sends the Egress, which lands in Nels Bilo "five minutes later, going well in excess of a thousand miles an hour in order to do so."
-- Set the Egress to fly back towards Poran. 30 seconds later - 1/12 of distance? - Tommul tears them out of the sky. (ch 211)
+- Set the Egress to fly back towards Poran. 30 seconds later - 1/12 of distance? - Tommul tears them out of the sky. His corpse lands in a forest (ch 211)
+- Juniper believes really hard in the power of imagination and somehow ends up back on Poran, leaving Raven behind. Don't worry about it. It just works. (ch 211)
+- Gold magic up into the air! (ch 212)
+- Gold magic to the moon! 🚀🚀🚀 (ch 212)
+- Gold magic back to some random point over land somewhere (ch 212).
+- Tk to Poran, specifically Bethel's old spot. (ch 212)
+- DBZ fight with Perisev away from Poran, landing somewhere in a meadow. (ch 212)
+- DBZ fight away again, ends with Perisev crash landing in a different forest. (ch 212) 
+- Gold magic back to Poran after consulting a map. Smoke quickly becomes visible on the horizon. (ch 212)
+- Go to Li'o, hire some whalers, go back to the dead dragons. (ch 213)
+- Go to NLEZ (ch 213)
+- Go back to Poran for meetings (ch 214)
+- Gold magic to Glassy Fields (ch 214)
+- Gold magic to Poran (ch 215)
+- Gold magic to NLEZ (ch 215)
+- Gold magic off to Perisev's lair (ch 216), stopping somewhere along the way above a prarie to take a whizz (ch 217)
+- Gold magic back to NLEZ (ch 217). Make it there around sundown.
+- Gold magic to Poran to avoid Bethel (ch 220).
+- Gold magic to Pendleham with Grak, return to Poran 4 days later. (offscreen between ch 220 and ch 221)
+- Gold magic through Rove (ch 221)
+- Gold magic down on top of Gatesmith (ch 221)
+- Go back to NLEZ (ch 221). It's been 2 weeks since the Perisev fight. Possible that additional quests have been dealt with.
+- Head to Frustbury with the gang for a cool chat with Invriezen (ch 222). It's near another errand they had to do.
+- Visit Claw & Clocks (ch 222)
+- Head back to Poran 👁️👁️👁️🦌👁️👁️👁️ (implied, ch 223)
+- Go to Grunnings, a satellite runeforge away from the main Stars and Sigils campus. (ch 225)
+- Go to Might&Magic, Crenn, on the mainland somewhere near the reclusive island of Rodyn a Horth (ch 225)
+- Juniper spends some time with his wife (on Poran?) (ch 225)
+- Juniper lights himself on fire on Poran (ch 226)
+- Bethel returns to Poran (227)
