@@ -1,0 +1,69 @@
+- Before Story: Iuniper's hometown, gets arrested, moved to three different prisons, then loaded on a plane to be dropped into the Risen Lands
+- Dropped from Plane near Comfort (Risen Lands, Francorum, Bretaigne) (ch1). Meet up with Amaryllis
+- Hop on a soul cycle going 15 mph (ch 6). Travel 2 hours/ 30 miles to an old barn (ch 7).
+- Next morning, travel another 4 hours, have a little stretch in the middle of nowhere (ch 8)
+- Spend unspecified time - less than a day - getting to Silmar City (ch 9). Maybe 150 miles total from Comfort to Silmar? Meet up with Feen
+- Teleport Key to Barren Jewel (ch 15)
+- Trudge through the Datura Desert in white robes to Caer Laga. (ch 20). 50 miles. Caer Laga spotted on day 4. Amaryllis has an injury 6 miles away from their destination, and needs to be dragged via sled. 
+- Rocket Back to Barren Jewel, come up 5 miles short. Bone sprint the rest of the way. (ch 25) (Amaryllis is abducted by Aumann back to Barren Jewel, and so doesn't use Rocket). Meet up with Grak.
+- Teleport Key to Weik Handum (ch 33)
+- Teleport Key to Cranberry Bay (ch 38)
+- Teleport Key to Aon Adharc Glen (ch 40)
+- Teleport Key to Weik Handum (between ch 40and 41)
+- Teleport Key to train tracks in the middle of flower farmland (ch 43). Locus and Solace join
+- Solace turns everyone into swallows. Airspeed velocity of roughly 25 mph, according to Joon. (But Mary later claims 20 mph) The gang flies 2 hours/ 50 miles to Boastre Vino (ch 46)
+- Joon blacks out while fighting Larkspur (ch 47), wakes up twelve hours later in the bottle, learns that Mary has been picking a random location in Boastre Vino every hour.
+- Joon draws a seven of tines, then the virgin from a deck of cards. This gives them an angle to fly away from the city (middle 60 degrees, then degree #57). They turn into birds and fly an hour/25 miles away to a rocky copse of trees. (ch 50)
+- Teleport Key to the foothills of the Worldspine (ch 52)
+- Teleport Key to Penndraig Hunting Grounds (ch 57)
+- Turn into birds and fly out into the Bryllyg sea to Sulid Isle (ch 57). Valencia joins, Solace dies
+- Teleport Key to Farm outside of Parsmont (ch  65). (First rest of team TKs to Parsmont (62), Mary TKs back (64))
+- Drive to Parmsont in Car (ch 69). Car ride takes about an hour or so. (Grak+Mary dropped off at halfway point,  TK to worldspine for bottle and betrayal, back to farm, back to halfway point (val+Mary), to gravel plains, barren jewel then back to halfway point and return to farm.)
+- Soulcycle back to farmhouse (ch 71)
+- Teleport Key to Barren Jewel (ch 74)
+- Teleport Key to Cranberry Bay (ch 74)
+- Teleport Key to Safehouse 5 (ch 78)
+- Teleport Key to Cranberry Bay (ch 81)
+- 2 day train ride along the Lion's Mane to the Boundless Pit (starting ch 82). Train goes over 100 mph at points.
+- Descend several miles via flying ship into the Boundless Pit to get to Bethel (ch 87)
+- Teleport Key to World Spine bottle location
+- Teleport Key to Safehouse near Cranberry Bay (ch 101). Drive car to Penndraig Memorial Hospital. Solace Reborn
+- Teleport Key to World Spine Bottle Location (ch 104)
+- Teleport Key? To Poran (ch 106). Maybe Finch gave them a ride.
+- Teleport Key to Bethel's old hole with Grak (ch 106)
+- Teleport Key to Poran (ch 106)
+- Teleport Key to Boastre Vino (ch 107)
+- Trolley up to Speculation and Scrutiny (ch 108)
+- Fly on the Egress to wheat field near mountains in the Amber Lands
+- Teleport Key to Poran (ch 115)
+- Teleport Key to Amber Lands (ch 118). Fenn Dies.
+- Teleport Key to Poran (ch 119)
+- Raven joins (ch 120)
+- Pallida, Heshnel, Gemma show up on Egress, Gemma takes Egress to Foxguard elder council 
+- Juniper T-poses into the Infinite Library, which is another dimension (ch 128)
+- Juniper T-poses out of the Infinite Library (ch 134)
+- Teleport Key to Darilli Irid (ch 137)
+- Teleport Key back to Poran (between 137 and 138)
+- Fly via Bethel-Egress to field 10 miles away from Sound and Silence (ch 141)
+- Find a nice plot of land in Li'o for Bethel, then walk to Sound and Silence campus (142). Mary et al take a day trip to Sporsan without Joon while he does school stuff
+- Fly back to  Poran (between ch 165 and 166)
+- Hire an airship to fly 2000 miles to Anglecynn, "cross over dozens of other borders along the way" (ch 177)
+- Transported via unknown means to Tentar black site, hundred miles north of the Spine of the World (between ch 180 and 181)
+- Head south via dire cavy, from dawn to noon, until reachign a dirt road (ch 186)
+- Travel an additional hour via dire cavy along road to Nopeming (ch 186)
+- Barter rifle for truck-ride to Sampers (ch 186), making it before sundown. Sampers has train access.
+- Teleport Key to Caledwich (ch 188)
+- Long car ride and short wolf jaunt to a section of railroad Amyrillis has TK access to (ch 188). They make it there at that awkward time when you're not sure whether it's "late at night or early morning"
+- Legal Teleport Key to Ha-Lunde city of Ludhad (ch 199)
+- Flying ship across the sea to Poran (ch 199)
+- Flying ship to Necrolaborem  EZ (ch 200). Path is almost perpendicular to path to Anglecynn. Takes 6 days at about 40 mph.
+- Teleport Key to Isle of Poran (ch 200)
+- Teleport Key to rendezvous point near Necrolaborem  EZ (implied ch 201)
+- Flying Ship to Doris Finch EZ (ch 201). Touch down outside of zone about 6 days after Captain Blue visit. Coordinates given as ( -0.57891, 0.17663, 0.40288). That's too far to fly directly from Poran in 6 days, and Bonny's airboat was hovering around the Blue EZ, hence the implied TK above.
+- Flying ship to Necrolaborem EZ (ch 205)
+- TK to Cidium, Widders (ch 209). It's mentioned dragons can travel at top speed 12 times faster than the Underline, so 480 mph. But next chapter, says she's travelling twice the speed of sound, more like 1500 mph. So Perisev is a beast. Maybe she's a velocity mage?
+- Tk to Poran (ch 210). Perisev is about an hour away. So about 1500 miles away given her estimated speeds. She stops over Nels Bilo
+- Warp using Raven's entad to Nels Bilo (ch 210)
+- Perisev moves in the direction of Anglecynn, goes somewhere near the Achrish Grass Desert.
+- Mary sends the Egress, which lands in Nels Bilo "five minutes later, going well in excess of a thousand miles an hour in order to do so."
+- Set the Egress to fly back towards Poran. 30 seconds later - 1/12 of distance? - Tommul tears them out of the sky. (ch 211)
