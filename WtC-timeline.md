@@ -81,7 +81,7 @@
 - Gold magic to Glassy Fields (ch 214)
 - Gold magic to Poran (ch 215)
 - Gold magic to NLEZ (ch 215)
-- Gold magic off to Perisev's lair (ch 216), stopping somewhere along the way above a prarie to take a whizz (ch 217)
+- Gold magic off to Perisev's lair (ch 216), stopping somewhere along the way above a prarie to take a whizz (ch 217). It takes 4 hours to gold magic from NLEZ to Perisev's big mountain library
 - Gold magic back to NLEZ (ch 217). Make it there around sundown.
 - Gold magic to Poran to avoid Bethel (ch 220).
 - Gold magic to Pendleham with Grak, return to Poran 4 days later. (offscreen between ch 220 and ch 221)
