@@ -38,7 +38,7 @@ Trump cards are other stuff.
 3. At the cost of rapidly fatiguing yourself
 4. At the cost of your hair falling out
 5. At the cost of intense migraines
-6. After burning some expensive herbs
+6. After an expensive burnt offering 
 7. At the cost of dehydrating yourself
 8. At a cost of 20 dollars per minute
 9. At the cost of incontinence
@@ -74,7 +74,7 @@ Trump cards are other stuff.
 7. Whenever it rains or snows
 8. Whenever someone steps on your shadow
 9. Whenever someone says your name
-10. Whenever you someone nearby commits a crime
+10. Whenever someone nearby commits a crime
 11. Whenever you witness a disaster
 12. Whenever you see someone getting injured
 13. Whenever someone hears your voice
@@ -153,10 +153,10 @@ Trump cards are other stuff.
 2. you can mold [ELEMENT] like clay
 3. you summon nearby [ELEMENT] into your hands
 4. [ELEMENT] in your hands becomes unbreakable
-5. [ELEMENT] and your body are pulled towards each other
-6. [ELEMENT] and your body are pushed away from each other
-7. you animate [ELEMENT] into a golem
-8. all nearby [ELEMENT] are pulled into a single point
+5. nearby [ELEMENT] begins to spin
+6. [ELEMENT] is repelled from you
+7. you animate nearby [ELEMENT] into a golem
+8. all nearby [ELEMENT] is pulled into a single point
 9. you can easily pick up [ELEMENT] and carry it around
 10. [ELEMENT] follows you like a loyal puppy
 11. [ELEMENT] you touch is imbued with the properties of [ELEMENT]
@@ -183,7 +183,7 @@ you can move unimpeded through [ELEMENT]
 you cannot be hurt by [ELEMENT]
 you can teleport by stepping through [ELEMENT]
 
-
+Exploit? Self? etc.? for trumps
 
 
 ## Elements
@@ -197,21 +197,21 @@ Trump cards are conceptual.
 3. electricity
 4. wood
 5. glass
-6. plasma
+6. geometry
 7. sugar
 8. motion
 9. lava
-10. friction
+10. thought
 11. rust
 12. explosions
 13. fuel
 14. fruit
 
 ### Coins (Earth)
-1. dirt
+1. earth
 2. filth
 3. food
-4. crystal
+4. hair
 5. vermin
 6. precious metal
 7. iron
@@ -232,7 +232,7 @@ Trump cards are conceptual.
 6. poison
 7. fish
 8. alcohol
-9. nacre
+9. shell
 10. moss
 11. cream
 12. rubber
@@ -257,7 +257,7 @@ Trump cards are conceptual.
 
 
 ### Trumps (Conceptual)
-0. ignorance
+0. folly
 1. trickery
 2. secrecy
 3. order
@@ -447,7 +447,7 @@ light
 electricity
 wood
 glass
-plasma
+geometry
 sugar
 motion
 lava
@@ -456,10 +456,10 @@ rust
 explosions
 fuel
 fruit
-dirt
+earth
 filth
 food
-crystal
+hair
 vermin
 precious metal
 iron
@@ -478,7 +478,7 @@ flesh
 poison
 fish
 alcohol
-nacre
+shell
 moss
 cream
 rubber
@@ -498,17 +498,17 @@ weaponry
 void
 paper
 music
-ignorance
+folly
 trickery
 secrecy
 order
 authority
 faith
 love
-conflict
+war
 truth
 solitude
-luck
+fortune
 unruly pet dogs
 suspense
 death
@@ -519,7 +519,7 @@ peace
 shellfish
 friendship
 salvation
-spacetime
+time
 
 
 
