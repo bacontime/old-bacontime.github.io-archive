@@ -197,7 +197,7 @@ Trump cards are other stuff.
 11. your strength scales in proportion to the amount of [ELEMENT] you are touching
 12. you are invulnerable when your feet are firmly planted in or on [ELEMENT]
 13. nearby [ELEMENT] becomes deadly in your hands
-14. nearby [ELEMENT] is moderated, strengthening if weak and weakening if strong
+14. the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong
 15. the spirit of [ELEMENT] temporarily takes over your mind
 16. you temporarily enter the elemental plane of [ELEMENT]
 17. your soul is infused with the metaphorical essence of [ELEMENT]
@@ -208,7 +208,7 @@ Trump cards are other stuff.
 
 
 
-
+TODO: fix trump 14
 
 
 
