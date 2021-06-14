@@ -10,7 +10,7 @@
 ## Triggering Condition
 
 Clubs: Willful activation
-Coins or Diamonds: action or tradoff maybe?
+Coins or Diamonds: action or tradoff maybe? At a cost?
 Cups or Hearts: Based on some state of being.
 Swords or Spades: Conditions outside of your control
 Trump cards are other stuff.
@@ -25,10 +25,11 @@ Trump cards are other stuff.
 6. At will, once per day
 7. While looking at the moon
 8. When you draw blood
-9. 
+9. While aggresively voguing 
+10. While squeezing your eyes shut and holding your breath
 
 
-## Coins (action? pattern based?)
+## Coins (predictable but no control)
 1. Each full moon
 2. For one second, once per minute
 3. During the day
@@ -50,14 +51,14 @@ Trump cards are other stuff.
 6. While injured
 7. While angry
 8. While in a crowd
-9. While alone
-10. While moving at least 5 km per hour
-11. While moving slower than 1 km per hour 
+9. While screaming
+10. While dizzy
+11. 
 12. While moving northwards
 13. While sad
-14. While naked
+14. While indoors or underground
 
-## Swords (out of your control)
+## Swords (externally imposed)
 1. Whenever someone looks at you
 2. Whenever someone tries to hurt you
 3. Whenever someone answers a question you ask
@@ -65,7 +66,29 @@ Trump cards are other stuff.
 5. Whenever someone else wills it
 6. Whenever you hear a bird chirping
 
-
+## Trumps (Overly literal translations of the cards)
+0. While on a journey
+1. While playing card games
+2. While reading a book
+3. If you have permission from the local authorities
+4. While relaxing in a comfy chair
+5. While on sacred ground
+6. While in love
+7. While moving at least 5 km per hour
+8. While in court
+9. While alone
+10. At random
+11. While trying to get a dog to let go of something it shouldn't be eating
+12. While upside-down
+13. When you die
+14. While sober, alert, and well-rested
+15. While wearing nothing but a ridiculous hat
+16. While at least 10 meters above the ground
+17. While you can see the stars
+18. When shellfish are near
+19. During the day
+20. Whenever it would help save your life
+21. All the time
 
 
 
@@ -95,7 +118,7 @@ Trump cards are other stuff.
 13. a chain of [ELEMENT] connects two people or objects you can see
 
 ## Coins (Reading)
-1. you sense nearby [ELEMENT], seeing it overlayed onto you vision
+1. you see [ELEMENT] through walls
 2. you gain insight into the history of any [ELEMENT] you sense
 3. your mind is bombarded with visions of how to tinker with [ELEMENT]
 4. a moving song about [ELEMENT] appears in your mind
