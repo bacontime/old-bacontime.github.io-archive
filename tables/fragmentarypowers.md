@@ -192,10 +192,10 @@ Trump cards are other stuff.
 6. everyone nearby gains a persistently increased desire for [ELEMENT]
 7. your speed scales in proportion to the amount of [ELEMENT] you are touching
 8. you summon a gadget that uses [ELEMENT] to fight crime
-9. [ELEMENT] cannot interact with you nor you 
+9. [ELEMENT] cannot interact with you nor you with it
 10. you temporarily gain some random manifestation of [ELEMENT]-themed power
 11. your strength scales in proportion to the amount of [ELEMENT] you are touching
-12. you are invulnerable when your feet are firmly planted in or on [ELEMENT]
+12. you anchor yourself in place relative to nearby [ELEMENT]
 13. nearby [ELEMENT] becomes deadly in your hands
 14. the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong
 15. the spirit of [ELEMENT] temporarily takes over your mind
@@ -329,10 +329,10 @@ Trump cards are conceptual.
 | ★6     | Lovers             | While in love                                                           | everyone nearby gains a persistently increased desire for [ELEMENT]                         | love           |
 | ★7     | Chariot            | While moving at least 5 km per hour                                     | your speed scales in proportion to the amount of [ELEMENT] you are touching                 | war            |
 | ★8     | Justice            | While in court                                                          | you summon a gadget that uses [ELEMENT] to fight crime                                      | truth          |
-| ★9     | Hermit             | While alone                                                             | [ELEMENT] cannot interact with you nor you                                                  | solitude       |
+| ★9     | Hermit             | While alone                                                             | [ELEMENT] cannot interact with you  nor you with it                                         | solitude       |
 | ★10    | Wheel of   Fortune | At random                                                               | you temporarily gain some random manifestation of [ELEMENT]-themed power                    | fortune        |
 | ★11    | Strength           | While trying to get a dog to let go of something it shouldn’t be eating | your strength scales in proportion to the amount of [ELEMENT] you are touching              | unruly canines |
-| ★12    | Hangman            | While upside-down                                                       | you are invulnerable when your feet are firmly planted in or on [ELEMENT]                   | suspense       |
+| ★12    | Hangman            | While upside-down                                                       | you anchor yourself in place relative to nearby [ELEMENT]                   | suspense       |
 | ★13    | Spooky Skeleton    | When you die                                                            | nearby [ELEMENT] becomes deadly in your hands                                               | death          |
 | ★14    | Temperance         | While sober, alert, and well-rested                                     | the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong | temperance     |
 | ★15    | Devil              | While wearing nothing but a ridiculous hat                              | the spirit of [ELEMENT] temporarily takes over your mind                                    | temptation     |
