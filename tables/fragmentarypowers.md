@@ -7,27 +7,66 @@
 
 
 
+## Triggering Condition
+
+Clubs: Willful activation
+Coins or Diamonds: action or tradoff maybe?
+Cups or Hearts: Based on some state of being.
+Swords or Spades: Conditions outside of your control
+Trump cards are other stuff.
+
+
+## Clubs (willful)
+1. At will
+2. While chanting a magic phrase
+3. Whenever you burn a particular seal
+4. After planting a coin deep in the ground
+5. While meditating
+6. At will, once per day
+7. While looking at the moon
+8. When you draw blood
+9. 
+
+
+## Coins (action? pattern based?)
+1. Each full moon
+2. For one second, once per minute
+3. During the day
+4. During the night
+5. While the skies are clear
+6. During the month of your birth
+7. Every hour, on the hour
+8. At high noon
+9. While snow is falling
+10. 
+
+
+## Cups (state of being that can be imposed on you)
+1. While sleeping
+2. While awake
+3. While drunk
+4. While in midair
+5. While underwater
+6. While injured
+7. While angry
+8. While in a crowd
+9. While alone
+10. While moving at least 5 km per hour
+11. While moving slower than 1 km per hour 
+12. While moving northwards
+13. While sad
+14. While naked
+
+## Swords (out of your control)
+1. Whenever someone looks at you
+2. Whenever someone tries to hurt you
+3. Whenever someone answers a question you ask
+4. Whenever someone lies to you
+5. Whenever someone else wills it
+6. Whenever you hear a bird chirping
 
 
 
-distortions in spacetime
-cats
-vitriol
-alcohol
-
-sand
-metal
-moss
-bone
-skin 
-hair
-rubber
-portals
-cats
-shadow
-soap
-food
-vitriol
 
 
 ## Effects
@@ -41,34 +80,69 @@ Swords or Spades: Destroys the element in some way.
 Trump cards are other stuff.
 
 ## Clubs (Creation)
-1. leave behind a trail of [ELEMENT]
-2. fire a beam of [ELEMENT]
+1. you leave behind a trail of [ELEMENT]
+2. you fire a beam of [ELEMENT] from your hands
 3. small bits of [ELEMENT] randomly appear around you
 4. you summon armor made of [ELEMENT]
 5. you turn whatever you touch into [ELEMENT]
 6. you can summon constructs made of [ELEMENT]
 7. you can make [ELEMENT] grow larger, more numerous, or more powerful
+8. a thick wall of [ELEMENT] is summoned around you
+9. [ELEMENT] leaks out of your skin
+10. a large cube of [ELEMENT] appears above your head
+11. you vomit out a stream of [ELEMENT]
+12. a geyser of [ELEMENT] bursts out of the ground
+13. a chain of [ELEMENT] connects two people or objects you can see
 
 ## Coins (Reading)
-1. you sense nearby [ELEMENT]
-2. you gain insight into the history and properties of any [ELEMENT] you sense
+1. you sense nearby [ELEMENT], seeing it overlayed onto you vision
+2. you gain insight into the history of any [ELEMENT] you sense
 3. your mind is bombarded with visions of how to tinker with [ELEMENT]
+4. a moving song about [ELEMENT] appears in your mind
+5. you teleport towards nearby [ELEMENT]
+6. you see the future trajectory of [ELEMENT]
+7. you perfectly recall all [ELEMENT] you have seen
+8. nearby [ELEMENT] becomes clearly visible to all
+9. you gain insight into avoiding [ELEMENT]
+10. you gain understanding of the properties of any [ELEMENT] you sense
+11. you see a glowing path guiding you to the nearest [ELEMENT]
+12. you hear secret whispers from nearby [ELEMENT]
 
 ## Cups (Updating)
 1. you can telekinetically manipulate [ELEMENT] with your mind
-2. you can alter the properties of nearby [ELEMENT]
+2. you can mold [ELEMENT] like clay
 3. you summon nearby [ELEMENT] into your hands
 4. [ELEMENT] in your hands becomes unbreakable
+5. [ELEMENT] and your body are pulled towards each other
+6. [ELEMENT] and your body are pushed away from each other
+7. you animate [ELEMENT] into a golem
+8. all nearby [ELEMENT] are pulled into a single point
+9. you can easily pick up [ELEMENT] and carry it around
+10. [ELEMENT] follows you like a loyal puppy
+11. [ELEMENT] you touch is imbued with the properties of [ELEMENT]
+12. you can freeze [ELEMENT] in time
+13. [ELEMENT] you touch is transformed into [ELEMENT]
 
 ## Swords (Destroying)
 1. you destroy all nearby [ELEMENT]
+2. nearby [ELEMENT] shrinks or otherwise diminishes
+3. nearby [ELEMENT] is forgotten
+4. [ELEMENT] that you touch vanishes
+5. all [ELEMENT] you see splits in twain
+6. nearby wild animals gain permanent contempt for [ELEMENT]
+7. the earth cracks open and swallows nearby [ELEMENT]
+8. [ELEMENT] that you touch shatters
+9. [ELEMENT] that you touch is yeeted up into space
+10. nearby [ELEMENT] violently explodes
+11. [ELEMENT] you touch becomes intangible and invisible for 24 hours
+12. 
 
 ???
 you can move unimpeded through [ELEMENT]
 you cannot be hurt by [ELEMENT]
-you teleport towards nearby [ELEMENT]
-you can easily pick up [ELEMENT] and carry it around
-you can freeze [ELEMENT] in time
+you can teleport by stepping through [ELEMENT]
+
+
 
 
 ## Elements
@@ -173,6 +247,15 @@ Trump cards are conceptual.
 
 
 
+
+distortions in spacetime
+sand
+skin 
+hair
+portals
+cats
+soap
+vitriol
 
 
 
