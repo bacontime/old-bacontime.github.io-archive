@@ -1,3 +1,189 @@
+# Tarot based power generation
+
+1. Draw a card for the triggering condition.
+2. Draw a card for the power's effect.
+3. For each instance of "ELEMENT", draw a card to determine that element.
+
+
+
+
+
+
+
+distortions in spacetime
+cats
+vitriol
+alcohol
+
+sand
+metal
+moss
+bone
+skin 
+hair
+rubber
+portals
+cats
+shadow
+soap
+food
+vitriol
+
+
+## Effects
+
+Inspired by the [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete) paradigm:
+
+Clubs: Creates the element in some way. 
+Coins or Diamonds: "Reads" the element in some way, gathering information.
+Cups or Hearts: Updates or changes the element in some way. 
+Swords or Spades: Destroys the element in some way.
+Trump cards are other stuff.
+
+## Clubs (Creation)
+1. leave behind a trail of [ELEMENT]
+2. fire a beam of [ELEMENT]
+3. small bits of [ELEMENT] randomly appear around you
+4. you summon armor made of [ELEMENT]
+5. you turn whatever you touch into [ELEMENT]
+6. you can summon constructs made of [ELEMENT]
+7. you can make [ELEMENT] grow larger, more numerous, or more powerful
+
+## Coins (Reading)
+1. you sense nearby [ELEMENT]
+2. you gain insight into the history and properties of any [ELEMENT] you sense
+3. your mind is bombarded with visions of how to tinker with [ELEMENT]
+
+## Cups (Updating)
+1. you can telekinetically manipulate [ELEMENT] with your mind
+2. you can alter the properties of nearby [ELEMENT]
+3. you summon nearby [ELEMENT] into your hands
+4. [ELEMENT] in your hands becomes unbreakable
+
+## Swords (Destroying)
+1. you destroy all nearby [ELEMENT]
+
+???
+you can move unimpeded through [ELEMENT]
+you cannot be hurt by [ELEMENT]
+you teleport towards nearby [ELEMENT]
+you can easily pick up [ELEMENT] and carry it around
+you can freeze [ELEMENT] in time
+
+
+## Elements
+
+Cups or Hearts is Water. Clubs is Fire. Swords or Spades is Air. Coins or Diamonds is Earth.
+Trump cards are conceptual.
+
+### Clubs (Fire)
+1. Fire
+2. Light
+3. Electricity
+4. Wood
+5. Glass
+6. Plasma
+7. Sugar
+8. Motion
+9. Lava
+10. Friction
+11. Rust
+12. Explosions
+13. Fuel
+14. Fruit
+
+### Coins (Earth)
+1. Dirt
+2. Filth
+3. Food
+4. Crystal
+5. Vermin
+6. Precious metal
+7. Iron
+8. Fungus
+9. Stone
+10. Bone
+11. Shadow
+12. Gemstone
+13. Clockwork
+14. Currency
+
+### Cups (Water)
+1. Water
+2. Blood
+3. Slime
+4. Ice
+5. Flesh
+6. Poison
+7. Brine
+8. Alcohol
+9. Nacre
+10. Moss
+11. Infants
+12. Rubber
+13. Memory
+14. Clay
+
+### Swords (Air)
+1. Air
+2. Weather
+3. Sound
+4. Radioactive dust
+5. Gas
+6. Invisible force
+7. Smoke
+8. Powder
+9. Foliage
+10. Mist
+11. Weaponry
+12. Void
+13. Paper
+14. Music
+
+
+### Trumps (Conceptual)
+0. Ignorance
+1. Trickery
+2. Secrecy
+3. Order
+4. Authority
+5. Faith
+6. Love
+7. Conflict
+8. Truth
+9. Solitude
+10. Luck
+11. Unruly pet dogs
+12. Suspense
+13. Death
+14. Temperance
+15. Temptation
+16. Arrogance
+17. Peace
+18. Shellfish
+19. Friendship
+20. Salvation
+21. Spacetime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
+---
+
 
 ## Tables for Conditionally Manifested Powers
 
