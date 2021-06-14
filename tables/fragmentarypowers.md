@@ -196,7 +196,7 @@ Trump cards are other stuff.
 10. you temporarily gain some random manifestation of [ELEMENT]-themed power
 11. your strength scales in proportion to the amount of [ELEMENT] you are touching
 12. you are invulnerable when your feet are firmly planted in or on [ELEMENT]
-13. nearby [ELEMENT] becomes deadly to the touch
+13. nearby [ELEMENT] becomes deadly in your hands
 14. nearby [ELEMENT] is moderated, strengthening if weak and weakening if strong
 15. the spirit of [ELEMENT] temporarily takes over your mind
 16. you temporarily enter the elemental plane of [ELEMENT]
