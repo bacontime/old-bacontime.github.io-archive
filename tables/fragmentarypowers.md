@@ -272,7 +272,7 @@ Trump cards are conceptual.
 3. sound
 4. radioactive dust
 5. gas
-6. invisible force
+6. wind
 7. smoke
 8. powder
 9. foliage
@@ -344,7 +344,44 @@ Trump cards are conceptual.
 | ★21    | The World          | All the time                                                            | you teleport by stepping through [ELEMENT]                                              | time           |
 
 
+### Triggers 
 
+| Card # | Clubs                                                  | Diamonds/Coins                              | Cups/Hearts                  | Swords/Spades                                   |
+|--------|--------------------------------------------------------|---------------------------------------------|------------------------------|-------------------------------------------------|
+| A      | With a touch                                           | After planting a coin deep in the ground    | While sleeping               | Whenever someone looks at you                   |
+| 2      | With a glance, once per day                            | In exchange for a drop of blood             | While awake                  | Whenever someone tries to hurt you              |
+| 3      | With a thought, once per year                          | At the cost of rapidly fatiguing yourself   | While drunk                  | Whenever someone answers a question you ask     |
+| 4      | While wielding a weapon                                | At the cost of your hair falling out        | While in midair              | Whenever someone lies to you                    |
+| 5      | While chanting a magic phrase                          | At the cost of intense migraines            | While underwater             | Whenever someone starts a conversation with you |
+| 6      | While meditating                                       | After an expensive burnt offering           | While injured                | Whenever you hear a bird chirping               |
+| 7      | While standing still and flexing                       | At the cost of dehydrating yourself         | While angry                  | Whenever it rains or snows                      |
+| 8      | While punching                                         | At a cost of 20 dollars per minute          | While in a crowd             | Whenever someone steps on your shadow           |
+| 9      | While aggressively voguing                             | At the cost of incontinence                 | While screaming              | Whenever someone says your name                 |
+| 10     | While squeezing your eyes shut and holding your breath | After sharing an embarrassing secret        | While dizzy                  | Whenever someone nearby commits a crime         |
+| J      | While eating                                           | As long as you keep your vows               | While uncomfortably warm     | Whenever you witness a disaster                 |
+| C      | While singing from the heart                           | At the cost of losing precious memories     | While moving northwards      | Whenever you see someone getting injured        |
+| Q      | At will, after 1 minute of charge-up time              | At the cost of alienating your loved ones   | While sad                    | Whenever someone hears your voice               |
+| K      | While walking                                          | After walking 7 times around the city walls | While indoors or underground | Whenever you get struck by lightning            |
+
+
+### Elements
+
+|   #    | Clubs       | Diamonds/Coins | Cups/Hearts | Swords/Spades    |
+|--------|-------------|----------------|-------------|------------------|
+| A      | fire        | earth          | water       | air              |
+| 2      | light       | filth          | blood       | weather          |
+| 3      | electricity | food           | slime       | sound            |
+| 4      | wood        | hair           | ice         | radioactive dust |
+| 5      | glass       | vermin         | flesh       | gas              |
+| 6      | geometry    | precious metal | poison      | wind             |
+| 7      | sugar       | iron           | fish        | smoke            |
+| 8      | motion      | fungus         | alcohol     | powder           |
+| 9      | lava        | stone          | shell       | foliage          |
+| 10     | thought     | bone           | moss        | mist             |
+| J      | rust        | shadow         | cream       | weaponry         |
+| C      | explosions  | gemstone       | rubber      | void             |
+| Q      | fuel        | clockwork      | memory      | paper            |
+| K      | fruit       | currency       | clay        | music            |
 
 
 ---
@@ -539,7 +576,7 @@ weather
 sound
 radioactive dust
 gas
-invisible force
+wind
 smoke
 powder
 foliage
