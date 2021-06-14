@@ -158,7 +158,7 @@ Trump cards are other stuff.
 6. [ELEMENT] is repelled from you
 7. you animate nearby [ELEMENT] into a golem
 8. all nearby [ELEMENT] is pulled into a single point
-9. [ELEMENT] sticks to you like glue
+9. [ELEMENT] sticks to you like katamari glue
 10. [ELEMENT] follows you like a loyal puppy
 11. [ELEMENT] you touch is imbued with the properties of [ELEMENT]
 12. you freeze [ELEMENT] in time
@@ -376,7 +376,7 @@ Trump cards are conceptual.
 | 6      | you summon constructs made of [ELEMENT]                           | you see the future trajectory of [ELEMENT]                            | [ELEMENT] is repelled from you                                 | nearby wild animals gain permanent contempt for [ELEMENT]         |
 | 7      | you make [ELEMENT] grow larger, more numerous, or more powerful   | you perfectly recall all [ELEMENT] you have seen                      | you animate nearby [ELEMENT] into a golem                      | the earth cracks open and swallows nearby [ELEMENT]               |
 | 8      | a thick wall of [ELEMENT] is summoned around you                  | nearby [ELEMENT] becomes clearly visible to all                       | all nearby [ELEMENT] is pulled into a single point             | [ELEMENT] that you touch shatters                                 |
-| 9      | [ELEMENT] leaks out of your skin                                  | you gain insight into avoiding [ELEMENT]                              | [ELEMENT] sticks to you like glue                              | [ELEMENT] that you touch is yeeted up into space                  |
+| 9      | [ELEMENT] leaks out of your skin                                  | you gain insight into avoiding [ELEMENT]                              | [ELEMENT] sticks to you like katamari glue                              | [ELEMENT] that you touch is yeeted up into space                  |
 | 10     | a large cube of [ELEMENT] appears above your head                 | you gain understanding of the properties of any [ELEMENT] you sense   | [ELEMENT] follows you like a loyal puppy                       | nearby [ELEMENT] violently explodes                               |
 | J      | you vomit out a stream of [ELEMENT]                               | you see a glowing path guiding you to the nearest [ELEMENT]           | [ELEMENT] you touch is imbued with the properties of [ELEMENT] | [ELEMENT] you touch becomes intangible and invisible for 24 hours |
 | C      | a geyser of [ELEMENT] bursts out of the ground wherever you point | you hear secret whispers from nearby [ELEMENT]                        | you freeze [ELEMENT] in time                                   | [ELEMENT] is randomly teleported away at your touch               |
@@ -402,6 +402,103 @@ Trump cards are conceptual.
 | C      | explosions  | gemstone       | rubber      | void             |
 | Q      | fuel        | clockwork      | memory      | paper            |
 | K      | fruit       | currency       | clay        | music            |
+
+
+---
+
+## Per suit tables
+
+### Clubs
+
+Loose themes
+: deliberate action, creation, fire
+
+| Card # | Trigger                                                | Manifestation                                                     | Element     |
+|:------:|--------------------------------------------------------|-------------------------------------------------------------------|-------------|
+|    A   | With a touch                                           | you leave behind a trail of [ELEMENT]                             | fire        |
+|    2   | With a glance, once per day                            | you fire a beam of [ELEMENT] from your hands                      | light       |
+|    3   | With a thought, once per year                          | small bits of [ELEMENT] randomly appear around you                | electricity |
+|    4   | While wielding a weapon                                | you summon armor made of [ELEMENT]                                | wood        |
+|    5   | While chanting a magic phrase                          | you turn whatever you touch into [ELEMENT]                        | glass       |
+|    6   | While meditating                                       | you summon constructs made of [ELEMENT]                           | geometry    |
+|    7   | While standing still and flexing                       | you make [ELEMENT] grow larger, more numerous, or more powerful   | sugar       |
+|    8   | While punching                                         | a thick wall of [ELEMENT] is summoned around you                  | motion      |
+|    9   | While aggressively voguing                             | [ELEMENT] leaks out of your skin                                  | lava        |
+|   10   | While squeezing your eyes shut and holding your breath | a large cube of [ELEMENT] appears above your head                 | thought     |
+|    J   | While eating                                           | you vomit out a stream of [ELEMENT]                               | rust        |
+|    C   | While singing from the heart                           | a geyser of [ELEMENT] bursts out of the ground wherever you point | explosions  |
+|    Q   | At will, after 1 minute of charge-up time              | a chain of [ELEMENT] connects two people or objects you can see   | fuel        |
+|    K   | While walking                                          | you summon of swarm of imps from the elemental plane of [ELEMENT] | fruit       |
+
+
+### Coins / Diamonds
+
+Loose themes
+: costly action, information, earth
+
+| Card # | Trigger                                     | Manifestation                                                         | Element        |
+|:------:|---------------------------------------------|-----------------------------------------------------------------------|----------------|
+|    A   | After planting a coin deep in the ground    | you see [ELEMENT] through walls                                       | earth          |
+|    2   | In exchange for a drop of blood             | you gain insight into the history of any [ELEMENT] you sense          | filth          |
+|    3   | At the cost of rapidly fatiguing yourself   | your mind is bombarded with visions of how to tinker with [ELEMENT]   | food           |
+|    4   | At the cost of your hair falling out        | a moving song about [ELEMENT] appears in your mind                    | hair           |
+|    5   | At the cost of intense migraines            | you teleport towards nearby [ELEMENT]                                 | vermin         |
+|    6   | After an expensive burnt offering           | you see the future trajectory of [ELEMENT]                            | precious metal |
+|    7   | At the cost of dehydrating yourself         | you perfectly recall all [ELEMENT] you have seen                      | iron           |
+|    8   | At a cost of 20 dollars per minute          | nearby [ELEMENT] becomes clearly visible to all                       | fungus         |
+|    9   | At the cost of incontinence                 | you gain insight into avoiding [ELEMENT]                              | stone          |
+|   10   | After sharing an embarrassing secret        | you gain understanding of the properties of any [ELEMENT] you sense   | bone           |
+|    J   | As long as you keep your vows               | you see a glowing path guiding you to the nearest [ELEMENT]           | shadow         |
+|    C   | At the cost of losing precious memories     | you hear secret whispers from nearby [ELEMENT]                        | gemstone       |
+|    Q   | At the cost of alienating your loved ones   | you gain insight into using nearby [ELEMENT] to accomplish your goals | clockwork      |
+|    K   | After walking 7 times around the city walls | you see the strengths and weaknesses of nearby [ELEMENT]              | currency       |
+
+
+### Cups / Hearts
+
+Loose themes
+: states of being, movement or alteration, water
+
+| Card # | Trigger                      | Manifestation                                                  | Element |
+|:------:|------------------------------|----------------------------------------------------------------|---------|
+|    A   | While sleeping               | you can telekinetically manipulate [ELEMENT] with your mind    | water   |
+|    2   | While awake                  | you can mold [ELEMENT] like clay                               | blood   |
+|    3   | While drunk                  | you summon nearby [ELEMENT] into your hands                    | slime   |
+|    4   | While in midair              | [ELEMENT] in your hands becomes unbreakable                    | ice     |
+|    5   | While underwater             | nearby [ELEMENT] begins to spin and twist                      | flesh   |
+|    6   | While injured                | [ELEMENT] is repelled from you                                 | poison  |
+|    7   | While angry                  | you animate nearby [ELEMENT] into a golem                      | fish    |
+|    8   | While in a crowd             | all nearby [ELEMENT] is pulled into a single point             | alcohol |
+|    9   | While screaming              | [ELEMENT] sticks to you like katamari glue                     | shell   |
+|   10   | While dizzy                  | [ELEMENT] follows you like a loyal puppy                       | moss    |
+|    J   | While uncomfortably warm     | [ELEMENT] you touch is imbued with the properties of [ELEMENT] | cream   |
+|    C   | While moving northwards      | you freeze [ELEMENT] in time                                   | rubber  |
+|    Q   | While sad                    | [ELEMENT] you touch is transformed into [ELEMENT]              | memory  |
+|    K   | While indoors or underground | You reverse the flow of time for nearby [ELEMENT]              | clay    |
+
+
+### Swords / Spades
+
+Loose themes
+: minimal control, destruction, air
+
+| Card # | Trigger                                         | Manifestation                                                     | Element          |
+|:------:|-------------------------------------------------|-------------------------------------------------------------------|------------------|
+|    A   | Whenever someone looks at you                   | you destroy all nearby [ELEMENT]                                  | air              |
+|    2   | Whenever someone tries to hurt you              | nearby [ELEMENT] shrinks or otherwise diminishes                  | weather          |
+|    3   | Whenever someone answers a question you ask     | nearby [ELEMENT] is forgotten                                     | sound            |
+|    4   | Whenever someone lies to you                    | [ELEMENT] that you touch vanishes                                 | radioactive dust |
+|    5   | Whenever someone starts a conversation with you | all [ELEMENT] you see splits in twain                             | gas              |
+|    6   | Whenever you hear a bird chirping               | nearby wild animals gain permanent contempt for [ELEMENT]         | wind             |
+|    7   | Whenever it rains or snows                      | the earth cracks open and swallows nearby [ELEMENT]               | smoke            |
+|    8   | Whenever someone steps on your shadow           | [ELEMENT] that you touch shatters                                 | powder           |
+|    9   | Whenever someone says your name                 | [ELEMENT] that you touch is yeeted up into space                  | foliage          |
+|   10   | Whenever someone nearby commits a crime         | nearby [ELEMENT] violently explodes                               | mist             |
+|    J   | Whenever you witness a disaster                 | [ELEMENT] you touch becomes intangible and invisible for 24 hours | weaponry         |
+|    C   | Whenever you see someone getting injured        | [ELEMENT] is randomly teleported away at your touch               | void             |
+|    Q   | Whenever someone hears your voice               | nearby [ELEMENT] is consumed by [ELEMENT]                         | paper            |
+|    K   | Whenever you get struck by lightning            | nearby [ELEMENT] becomes immune to manipulation by powers         | music            |
+
 
 
 ---
