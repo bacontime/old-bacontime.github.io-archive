@@ -17,9 +17,9 @@ Trump cards are other stuff.
 
 
 ## Clubs (willful actions)
-1. At will
-2. At will, once per day
-3. At will, once per year
+1. With a touch
+2. With a glance, once per day
+3. With a thought, once per year
 4. While wielding a weapon
 5. While chanting a magic phrase
 6. While meditating
@@ -123,13 +123,13 @@ Trump cards are other stuff.
 3. small bits of [ELEMENT] randomly appear around you
 4. you summon armor made of [ELEMENT]
 5. you turn whatever you touch into [ELEMENT]
-6. you can summon constructs made of [ELEMENT]
-7. you can make [ELEMENT] grow larger, more numerous, or more powerful
+6. you summon constructs made of [ELEMENT]
+7. you make [ELEMENT] grow larger, more numerous, or more powerful
 8. a thick wall of [ELEMENT] is summoned around you
 9. [ELEMENT] leaks out of your skin
 10. a large cube of [ELEMENT] appears above your head
 11. you vomit out a stream of [ELEMENT]
-12. a geyser of [ELEMENT] bursts out of the ground
+12. a geyser of [ELEMENT] bursts out of the ground wherever you point
 13. a chain of [ELEMENT] connects two people or objects you can see
 14. you summon of swarm of imps from the elemental plane of [ELEMENT]
 
@@ -146,21 +146,22 @@ Trump cards are other stuff.
 10. you gain understanding of the properties of any [ELEMENT] you sense
 11. you see a glowing path guiding you to the nearest [ELEMENT]
 12. you hear secret whispers from nearby [ELEMENT]
-13. 
+13. you gain insight into using nearby [ELEMENT] to accomplish your goals
+14. you see the strengths and weaknesses of nearby [ELEMENT]
 
 ## Cups (Updating)
 1. you can telekinetically manipulate [ELEMENT] with your mind
 2. you can mold [ELEMENT] like clay
 3. you summon nearby [ELEMENT] into your hands
 4. [ELEMENT] in your hands becomes unbreakable
-5. nearby [ELEMENT] begins to spin
+5. nearby [ELEMENT] begins to spin and twist
 6. [ELEMENT] is repelled from you
 7. you animate nearby [ELEMENT] into a golem
 8. all nearby [ELEMENT] is pulled into a single point
-9. you can easily pick up [ELEMENT] and carry it around
+9. [ELEMENT] sticks to you like glue
 10. [ELEMENT] follows you like a loyal puppy
 11. [ELEMENT] you touch is imbued with the properties of [ELEMENT]
-12. you can freeze [ELEMENT] in time
+12. you freeze [ELEMENT] in time
 13. [ELEMENT] you touch is transformed into [ELEMENT]
 14. You reverse the flow of time for nearby [ELEMENT]
 
@@ -177,13 +178,39 @@ Trump cards are other stuff.
 10. nearby [ELEMENT] violently explodes
 11. [ELEMENT] you touch becomes intangible and invisible for 24 hours
 12. [ELEMENT] is randomly teleported away at your touch
+13. nearby [ELEMENT] is consumed by [ELEMENT]
+14. nearby [ELEMENT] becomes immune to manipulation by powers
 
-???
-you can move unimpeded through [ELEMENT]
-you cannot be hurt by [ELEMENT]
-you can teleport by stepping through [ELEMENT]
 
-Exploit? Self? etc.? for trumps
+## Trump Exploit? Self? etc.? for trumps
+0. you move unimpeded through or across [ELEMENT]
+1. you display great finesse with [ELEMENT]
+2. you disguise yourself as [ELEMENT]
+3. you can easily pick up [ELEMENT] and carry it around
+4. everyone recognizes you as the undisputed master of [ELEMENT]
+5. you temporarily grant someone else a [ELEMENT]-themed power
+6. everyone nearby gains a persistently increased desire for [ELEMENT]
+7. your speed scales in proportion to the amount of [ELEMENT] you are touching
+8. you summon a gadget that uses [ELEMENT] to fight crime
+9. [ELEMENT] cannot interact with you nor you 
+10. you temporarily gain some random manifestation of [ELEMENT]-themed power
+11. your strength scales in proportion to the amount of [ELEMENT] you are touching
+12. you are invulnerable when your feet are firmly planted in or on [ELEMENT]
+13. nearby [ELEMENT] becomes deadly to the touch
+14. nearby [ELEMENT] is moderated, strengthening if weak and weakening if strong
+15. the spirit of [ELEMENT] temporarily takes over your mind
+16. you temporarily enter the elemental plane of [ELEMENT]
+17. your soul is infused with the metaphorical essence of [ELEMENT]
+18. you temporarily transform into an elemental of [ELEMENT] 
+19. you weave illusions of [ELEMENT] around you
+20. you cannot be harmed by [ELEMENT]
+21. you can teleport by stepping through [ELEMENT]
+
+
+
+
+
+
 
 
 ## Elements
@@ -268,7 +295,7 @@ Trump cards are conceptual.
 8. truth
 9. solitude
 10. fortune
-11. unruly pet dogs
+11. unruly canines
 12. suspense
 13. death
 14. temperance
