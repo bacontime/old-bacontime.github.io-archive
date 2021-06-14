@@ -364,6 +364,26 @@ Trump cards are conceptual.
 | K      | While walking                                          | After walking 7 times around the city walls | While indoors or underground | Whenever you get struck by lightning            |
 
 
+### Manifestations
+
+| Card # | Clubs                                                             | Diamonds/Coins                                                        | Cups/Hearts                                                    | Swords/Spades                                                     |
+|--------|-------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|
+| A      | you leave behind a trail of [ELEMENT]                             | you see [ELEMENT] through walls                                       | you can telekinetically manipulate [ELEMENT] with your mind    | you destroy all nearby [ELEMENT]                                  |
+| 2      | you fire a beam of [ELEMENT] from your hands                      | you gain insight into the history of any [ELEMENT] you sense          | you can mold [ELEMENT] like clay                               | nearby [ELEMENT] shrinks or otherwise diminishes                  |
+| 3      | small bits of [ELEMENT] randomly appear around you                | your mind is bombarded with visions of how to tinker with [ELEMENT]   | you summon nearby [ELEMENT] into your hands                    | nearby [ELEMENT] is forgotten                                     |
+| 4      | you summon armor made of [ELEMENT]                                | a moving song about [ELEMENT] appears in your mind                    | [ELEMENT] in your hands becomes unbreakable                    | [ELEMENT] that you touch vanishes                                 |
+| 5      | you turn whatever you touch into [ELEMENT]                        | you teleport towards nearby [ELEMENT]                                 | nearby [ELEMENT] begins to spin and twist                      | all [ELEMENT] you see splits in twain                             |
+| 6      | you summon constructs made of [ELEMENT]                           | you see the future trajectory of [ELEMENT]                            | [ELEMENT] is repelled from you                                 | nearby wild animals gain permanent contempt for [ELEMENT]         |
+| 7      | you make [ELEMENT] grow larger, more numerous, or more powerful   | you perfectly recall all [ELEMENT] you have seen                      | you animate nearby [ELEMENT] into a golem                      | the earth cracks open and swallows nearby [ELEMENT]               |
+| 8      | a thick wall of [ELEMENT] is summoned around you                  | nearby [ELEMENT] becomes clearly visible to all                       | all nearby [ELEMENT] is pulled into a single point             | [ELEMENT] that you touch shatters                                 |
+| 9      | [ELEMENT] leaks out of your skin                                  | you gain insight into avoiding [ELEMENT]                              | [ELEMENT] sticks to you like glue                              | [ELEMENT] that you touch is yeeted up into space                  |
+| 10     | a large cube of [ELEMENT] appears above your head                 | you gain understanding of the properties of any [ELEMENT] you sense   | [ELEMENT] follows you like a loyal puppy                       | nearby [ELEMENT] violently explodes                               |
+| J      | you vomit out a stream of [ELEMENT]                               | you see a glowing path guiding you to the nearest [ELEMENT]           | [ELEMENT] you touch is imbued with the properties of [ELEMENT] | [ELEMENT] you touch becomes intangible and invisible for 24 hours |
+| C      | a geyser of [ELEMENT] bursts out of the ground wherever you point | you hear secret whispers from nearby [ELEMENT]                        | you freeze [ELEMENT] in time                                   | [ELEMENT] is randomly teleported away at your touch               |
+| Q      | a chain of [ELEMENT] connects two people or objects you can see   | you gain insight into using nearby [ELEMENT] to accomplish your goals | [ELEMENT] you touch is transformed into [ELEMENT]              | nearby [ELEMENT] is consumed by [ELEMENT]                         |
+| K      | you summon of swarm of imps from the elemental plane of [ELEMENT] | you see the strengths and weaknesses of nearby [ELEMENT]              | You reverse the flow of time for nearby [ELEMENT]              | nearby [ELEMENT] becomes immune to manipulation by powers         |
+
+
 ### Elements
 
 |   #    | Clubs       | Diamonds/Coins | Cups/Hearts | Swords/Spades    |
