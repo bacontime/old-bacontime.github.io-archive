@@ -86,7 +86,7 @@ Trump cards are other stuff.
 1. While playing card games
 2. While reading a book
 3. If you have permission from the local authorities
-4. While relaxing in a comfy chair
+4. While doing crime
 5. While on sacred ground
 6. While in love
 7. While moving at least 5 km per hour
@@ -195,7 +195,7 @@ Trump cards are other stuff.
 9. [ELEMENT] cannot interact with you nor you with it
 10. you temporarily gain some random manifestation of [ELEMENT]-themed power
 11. your strength scales in proportion to the amount of [ELEMENT] you are touching
-12. you anchor yourself in place relative to nearby [ELEMENT]
+12. you cannot be harmed if in firm contact with [ELEMENT]
 13. nearby [ELEMENT] becomes deadly in your hands
 14. the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong
 15. the spirit of [ELEMENT] temporarily takes over your mind
@@ -204,11 +204,11 @@ Trump cards are other stuff.
 18. you temporarily transform into an elemental of [ELEMENT] 
 19. you weave illusions of [ELEMENT] around you
 20. you cannot be harmed by [ELEMENT]
-21. you can teleport by stepping through [ELEMENT]
+21. you teleport by stepping through [ELEMENT]
 
 
 
-TODO: fix trump 14
+your anchor yourself in place relative to nearby [ELEMENT]
 
 
 
@@ -304,7 +304,7 @@ Trump cards are conceptual.
 17. peace
 18. shellfish
 19. friendship
-20. salvation
+20. spirit
 21. time
 
 
@@ -340,8 +340,8 @@ Trump cards are conceptual.
 | ★17    | Star               | While you can see the stars                                             | your soul is infused with the metaphorical essence of [ELEMENT]                             | peace          |
 | ★18    | Moon               | When shellfish are near                                                 | you temporarily transform into an elemental of [ELEMENT]                                    | shellfish      |
 | ★19    | Sun                | During the day                                                          | you weave illusions of [ELEMENT] around you                                                 | friendship     |
-| ★20    | Judgement          | Whenever it would help save your life                                   | you cannot be harmed by [ELEMENT]                                                           | salvation      |
-| ★21    | The World          | All the time                                                            | you can teleport by stepping through [ELEMENT]                                              | time           |
+| ★20    | Judgement          | Whenever it would help save your life                                   | you cannot be harmed by [ELEMENT]                                                           | spirit      |
+| ★21    | The World          | All the time                                                            | you teleport by stepping through [ELEMENT]                                              | time           |
 
 
 
@@ -440,8 +440,8 @@ you fire a beam of [ELEMENT] from your hands
 small bits of [ELEMENT] randomly appear around you
 you summon armor made of [ELEMENT]
 you turn whatever you touch into [ELEMENT]
-you can summon constructs made of [ELEMENT]
-you can make [ELEMENT] grow larger, more numerous, or more powerful
+you summon constructs made of [ELEMENT]
+you make [ELEMENT] grow larger, more numerous, or more powerful
 a thick wall of [ELEMENT] is summoned around you
 [ELEMENT] leaks out of your skin
 a large cube of [ELEMENT] appears above your head
@@ -568,7 +568,7 @@ arrogance
 peace
 shellfish
 friendship
-salvation
+spirit
 time
 
 
