@@ -315,10 +315,33 @@ Trump cards are conceptual.
 
 
 
+---
 
 
-
-
+| Card # | Card Name          | Trigger                                                                 | Power                                                                                       | Element        |
+|--------|--------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
+| ☆      | Fool/Excuse        | While on a journey                                                      | you move unimpeded through or across [ELEMENT]                                              | folly          |
+| ★1     | Pagat/Magician     | While playing card games                                                | you display great finesse with [ELEMENT]                                                    | trickery       |
+| ★2     | Popess             | While reading a book                                                    | you disguise yourself as [ELEMENT]                                                          | secrecy        |
+| ★3     | Empress            | If you have permission from the local authorities                       | you can easily pick up [ELEMENT] and carry it around                                        | order          |
+| ★4     | Emperor            | While relaxing in a comfy chair                                         | everyone recognizes you as the undisputed master of [ELEMENT]                               | authority      |
+| ★5     | Pope               | While on sacred ground                                                  | you temporarily grant someone else a [ELEMENT]-themed power                                 | faith          |
+| ★6     | Lovers             | While in love                                                           | everyone nearby gains a persistently increased desire for [ELEMENT]                         | love           |
+| ★7     | Chariot            | While moving at least 5 km per hour                                     | your speed scales in proportion to the amount of [ELEMENT] you are touching                 | war            |
+| ★8     | Justice/Strength   | While in court                                                          | you summon a gadget that uses [ELEMENT] to fight crime                                      | truth          |
+| ★9     | Hermit             | While alone                                                             | [ELEMENT] cannot interact with you nor you                                                  | solitude       |
+| ★10    | Wheel of   Fortune | At random                                                               | you temporarily gain some random manifestation of [ELEMENT]-themed power                    | fortune        |
+| ★11    | Strength/Justice   | While trying to get a dog to let go of something it shouldn’t be eating | your strength scales in proportion to the amount of [ELEMENT] you are touching              | unruly canines |
+| ★12    | Hangman            | While upside-down                                                       | you are invulnerable when your feet are firmly planted in or on [ELEMENT]                   | suspense       |
+| ★13    | Spooky Skeleton    | When you die                                                            | nearby [ELEMENT] becomes deadly in your hands                                               | death          |
+| ★14    | Temperance         | While sober, alert, and well-rested                                     | the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong | temperance     |
+| ★15    | Devil              | While wearing nothing but a ridiculous hat                              | the spirit of [ELEMENT] temporarily takes over your mind                                    | temptation     |
+| ★16    | Tower              | While at least 10 meters above the ground                               | you temporarily enter the elemental plane of [ELEMENT]                                      | arrogance      |
+| ★17    | Star               | While you can see the stars                                             | your soul is infused with the metaphorical essence of [ELEMENT]                             | peace          |
+| ★18    | Moon               | When shellfish are near                                                 | you temporarily transform into an elemental of [ELEMENT]                                    | shellfish      |
+| ★19    | Sun                | During the day                                                          | you weave illusions of [ELEMENT] around you                                                 | friendship     |
+| ★20    | Judgement          | Whenever it would help save your life                                   | you cannot be harmed by [ELEMENT]                                                           | salvation      |
+| ★21    | The World          | All the time                                                            | you can teleport by stepping through [ELEMENT]                                              | time           |
 
 
 
