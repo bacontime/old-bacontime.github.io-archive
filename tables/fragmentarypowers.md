@@ -16,31 +16,37 @@ Swords or Spades: Conditions outside of your control
 Trump cards are other stuff.
 
 
-## Clubs (willful)
+## Clubs (willful actions)
 1. At will
-2. While chanting a magic phrase
-3. Whenever you burn a particular seal
-4. After planting a coin deep in the ground
-5. While meditating
-6. At will, once per day
-7. While looking at the moon
-8. When you draw blood
-9. While aggresively voguing 
+2. At will, once per day
+3. At will, once per year
+4. While wielding a weapon
+5. While chanting a magic phrase
+6. While meditating
+7. While standing still and flexing
+8. While punching
+9. While aggressively voguing 
 10. While squeezing your eyes shut and holding your breath
+11. While eating 
+12. While singing from the heart
+13. At will, after 1 minute of charge-up time
+14. While walking
 
-
-## Coins (predictable but no control)
-1. Each full moon
-2. For one second, once per minute
-3. During the day
-4. During the night
-5. While the skies are clear
-6. During the month of your birth
-7. Every hour, on the hour
-8. At high noon
-9. While snow is falling
-10. 
-
+## Coins (At a cost)
+1. After planting a coin deep in the ground
+2. In exchange for a drop of blood
+3. At the cost of rapidly fatiguing yourself
+4. At the cost of your hair falling out
+5. At the cost of intense migraines
+6. After burning some expensive herbs
+7. At the cost of dehydrating yourself
+8. At a cost of 20 dollars per minute
+9. At the cost of incontinence
+10. After sharing an embarrassing secret
+11. As long as you keep your vows
+12. At the cost of losing precious memories
+13. At the cost of alienating your loved ones
+14. After walking 7 times around the city walls
 
 ## Cups (state of being that can be imposed on you)
 1. While sleeping
@@ -53,7 +59,7 @@ Trump cards are other stuff.
 8. While in a crowd
 9. While screaming
 10. While dizzy
-11. 
+11. While uncomfortably warm
 12. While moving northwards
 13. While sad
 14. While indoors or underground
@@ -63,8 +69,17 @@ Trump cards are other stuff.
 2. Whenever someone tries to hurt you
 3. Whenever someone answers a question you ask
 4. Whenever someone lies to you
-5. Whenever someone else wills it
+5. Whenever someone starts a conversation with you
 6. Whenever you hear a bird chirping
+7. Whenever it rains or snows
+8. Whenever someone steps on your shadow
+9. Whenever someone says your name
+10. Whenever you someone nearby commits a crime
+11. Whenever you witness a disaster
+12. Whenever you see someone getting injured
+13. Whenever someone hears your voice
+14. Whenever you get struck by lightning
+
 
 ## Trumps (Overly literal translations of the cards)
 0. While on a journey
@@ -116,6 +131,7 @@ Trump cards are other stuff.
 11. you vomit out a stream of [ELEMENT]
 12. a geyser of [ELEMENT] bursts out of the ground
 13. a chain of [ELEMENT] connects two people or objects you can see
+14. you summon of swarm of imps from the elemental plane of [ELEMENT]
 
 ## Coins (Reading)
 1. you see [ELEMENT] through walls
@@ -130,6 +146,7 @@ Trump cards are other stuff.
 10. you gain understanding of the properties of any [ELEMENT] you sense
 11. you see a glowing path guiding you to the nearest [ELEMENT]
 12. you hear secret whispers from nearby [ELEMENT]
+13. 
 
 ## Cups (Updating)
 1. you can telekinetically manipulate [ELEMENT] with your mind
@@ -145,6 +162,7 @@ Trump cards are other stuff.
 11. [ELEMENT] you touch is imbued with the properties of [ELEMENT]
 12. you can freeze [ELEMENT] in time
 13. [ELEMENT] you touch is transformed into [ELEMENT]
+14. You reverse the flow of time for nearby [ELEMENT]
 
 ## Swords (Destroying)
 1. you destroy all nearby [ELEMENT]
@@ -158,7 +176,7 @@ Trump cards are other stuff.
 9. [ELEMENT] that you touch is yeeted up into space
 10. nearby [ELEMENT] violently explodes
 11. [ELEMENT] you touch becomes intangible and invisible for 24 hours
-12. 
+12. [ELEMENT] is randomly teleported away at your touch
 
 ???
 you can move unimpeded through [ELEMENT]
@@ -174,97 +192,340 @@ Cups or Hearts is Water. Clubs is Fire. Swords or Spades is Air. Coins or Diamon
 Trump cards are conceptual.
 
 ### Clubs (Fire)
-1. Fire
-2. Light
-3. Electricity
-4. Wood
-5. Glass
-6. Plasma
-7. Sugar
-8. Motion
-9. Lava
-10. Friction
-11. Rust
-12. Explosions
-13. Fuel
-14. Fruit
+1. fire
+2. light
+3. electricity
+4. wood
+5. glass
+6. plasma
+7. sugar
+8. motion
+9. lava
+10. friction
+11. rust
+12. explosions
+13. fuel
+14. fruit
 
 ### Coins (Earth)
-1. Dirt
-2. Filth
-3. Food
-4. Crystal
-5. Vermin
-6. Precious metal
-7. Iron
-8. Fungus
-9. Stone
-10. Bone
-11. Shadow
-12. Gemstone
-13. Clockwork
-14. Currency
+1. dirt
+2. filth
+3. food
+4. crystal
+5. vermin
+6. precious metal
+7. iron
+8. fungus
+9. stone
+10. bone
+11. shadow
+12. gemstone
+13. clockwork
+14. currency
 
 ### Cups (Water)
-1. Water
-2. Blood
-3. Slime
-4. Ice
-5. Flesh
-6. Poison
-7. Brine
-8. Alcohol
-9. Nacre
-10. Moss
-11. Infants
-12. Rubber
-13. Memory
-14. Clay
+1. water
+2. blood
+3. slime
+4. ice
+5. flesh
+6. poison
+7. fish
+8. alcohol
+9. nacre
+10. moss
+11. cream
+12. rubber
+13. memory
+14. clay
 
 ### Swords (Air)
-1. Air
-2. Weather
-3. Sound
-4. Radioactive dust
-5. Gas
-6. Invisible force
-7. Smoke
-8. Powder
-9. Foliage
-10. Mist
-11. Weaponry
-12. Void
-13. Paper
-14. Music
+1. air
+2. weather
+3. sound
+4. radioactive dust
+5. gas
+6. invisible force
+7. smoke
+8. powder
+9. foliage
+10. mist
+11. weaponry
+12. void
+13. paper
+14. music
 
 
 ### Trumps (Conceptual)
-0. Ignorance
-1. Trickery
-2. Secrecy
-3. Order
-4. Authority
-5. Faith
-6. Love
-7. Conflict
-8. Truth
-9. Solitude
-10. Luck
-11. Unruly pet dogs
-12. Suspense
-13. Death
-14. Temperance
-15. Temptation
-16. Arrogance
-17. Peace
-18. Shellfish
-19. Friendship
-20. Salvation
-21. Spacetime
+0. ignorance
+1. trickery
+2. secrecy
+3. order
+4. authority
+5. faith
+6. love
+7. war
+8. truth
+9. solitude
+10. fortune
+11. unruly pet dogs
+12. suspense
+13. death
+14. temperance
+15. temptation
+16. arrogance
+17. peace
+18. shellfish
+19. friendship
+20. salvation
+21. time
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+[CONDITION], [POWER].
+
+{CONDITION}
+At will
+At will, once per day
+At will, once per year
+While wielding a weapon
+While chanting a magic phrase
+While meditating
+While standing still and flexing
+While punching
+While aggressively voguing 
+While squeezing your eyes shut and holding your breath
+While eating 
+While singing from the heart
+At will, after 1 minute of charge-up time
+While walking
+After planting a coin deep in the ground
+In exchange for a drop of blood
+At the cost of rapidly fatiguing yourself
+At the cost of your hair falling out
+At the cost of intense migraines
+After burning some expensive herbs
+At the cost of dehydrating yourself
+At a cost of 20 dollars per minute
+At the cost of incontinence
+After sharing an embarrassing secret
+As long as you keep your vows
+At the cost of losing precious memories
+At the cost of alienating your loved ones
+After walking 7 times around the city walls
+While sleeping
+While awake
+While drunk
+While in midair
+While underwater
+While injured
+While angry
+While in a crowd
+While screaming
+While dizzy
+While uncomfortably warm
+While moving northwards
+While sad
+While indoors or underground
+Whenever someone looks at you
+Whenever someone tries to hurt you
+Whenever someone answers a question you ask
+Whenever someone lies to you
+Whenever someone starts a conversation with you
+Whenever you hear a bird chirping
+Whenever it rains or snows
+Whenever someone steps on your shadow
+Whenever someone says your name
+Whenever you someone nearby commits a crime
+Whenever you witness a disaster
+Whenever you see someone getting injured
+Whenever someone hears your voice
+Whenever you get struck by lightning
+While on a journey
+While playing card games
+While reading a book
+If you have permission from the local authorities
+While relaxing in a comfy chair
+While on sacred ground
+While in love
+While moving at least 5 km per hour
+While in court
+While alone
+At random
+While trying to get a dog to let go of something it shouldn't be eating
+While upside-down
+When you die
+While sober, alert, and well-rested
+While wearing nothing but a ridiculous hat
+While at least 10 meters above the ground
+While you can see the stars
+When shellfish are near
+During the day
+Whenever it would help save your life
+All the time
+
+
+
+{POWER}
+you leave behind a trail of [ELEMENT]
+you fire a beam of [ELEMENT] from your hands
+small bits of [ELEMENT] randomly appear around you
+you summon armor made of [ELEMENT]
+you turn whatever you touch into [ELEMENT]
+you can summon constructs made of [ELEMENT]
+you can make [ELEMENT] grow larger, more numerous, or more powerful
+a thick wall of [ELEMENT] is summoned around you
+[ELEMENT] leaks out of your skin
+a large cube of [ELEMENT] appears above your head
+you vomit out a stream of [ELEMENT]
+a geyser of [ELEMENT] bursts out of the ground
+a chain of [ELEMENT] connects two people or objects you can see
+you summon of swarm of imps from the elemental plane of [ELEMENT]
+you see [ELEMENT] through walls
+you gain insight into the history of any [ELEMENT] you sense
+your mind is bombarded with visions of how to tinker with [ELEMENT]
+a moving song about [ELEMENT] appears in your mind
+you teleport towards nearby [ELEMENT]
+you see the future trajectory of [ELEMENT]
+you perfectly recall all [ELEMENT] you have seen
+nearby [ELEMENT] becomes clearly visible to all
+you gain insight into avoiding [ELEMENT]
+you gain understanding of the properties of any [ELEMENT] you sense
+you see a glowing path guiding you to the nearest [ELEMENT]
+you hear secret whispers from nearby [ELEMENT]
+you can telekinetically manipulate [ELEMENT] with your mind
+you can mold [ELEMENT] like clay
+you summon nearby [ELEMENT] into your hands
+[ELEMENT] in your hands becomes unbreakable
+[ELEMENT] and your body are pulled towards each other
+[ELEMENT] and your body are pushed away from each other
+you animate [ELEMENT] into a golem
+all nearby [ELEMENT] are pulled into a single point
+you can easily pick up [ELEMENT] and carry it around
+[ELEMENT] follows you like a loyal puppy
+[ELEMENT] you touch is imbued with the properties of [ELEMENT]
+you can freeze [ELEMENT] in time
+[ELEMENT] you touch is transformed into [ELEMENT]
+You reverse the flow of time for nearby [ELEMENT]
+you destroy all nearby [ELEMENT]
+nearby [ELEMENT] shrinks or otherwise diminishes
+nearby [ELEMENT] is forgotten
+[ELEMENT] that you touch vanishes
+all [ELEMENT] you see splits in twain
+nearby wild animals gain permanent contempt for [ELEMENT]
+the earth cracks open and swallows nearby [ELEMENT]
+[ELEMENT] that you touch shatters
+[ELEMENT] that you touch is yeeted up into space
+nearby [ELEMENT] violently explodes
+[ELEMENT] you touch becomes intangible and invisible for 24 hours
+[ELEMENT] is randomly teleported away at your touch
+you can move unimpeded through [ELEMENT]
+you cannot be hurt by [ELEMENT]
+you can teleport by stepping through [ELEMENT]
+
+{ELEMENT}
+fire
+light
+electricity
+wood
+glass
+plasma
+sugar
+motion
+lava
+friction
+rust
+explosions
+fuel
+fruit
+dirt
+filth
+food
+crystal
+vermin
+precious metal
+iron
+fungus
+stone
+bone
+shadow
+gemstone
+clockwork
+currency
+water
+blood
+slime
+ice
+flesh
+poison
+fish
+alcohol
+nacre
+moss
+cream
+rubber
+memory
+clay
+air
+weather
+sound
+radioactive dust
+gas
+invisible force
+smoke
+powder
+foliage
+mist
+weaponry
+void
+paper
+music
+ignorance
+trickery
+secrecy
+order
+authority
+faith
+love
+conflict
+truth
+solitude
+luck
+unruly pet dogs
+suspense
+death
+temperance
+temptation
+arrogance
+peace
+shellfish
+friendship
+salvation
+spacetime
+
+
+
+
+
+---
 
 
 
