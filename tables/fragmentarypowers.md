@@ -17,7 +17,7 @@ Trump cards are other stuff.
 
 
 ## Clubs (willful actions)
-1. With a touch
+1. With a gesture
 2. With a glance, once per day
 3. With a thought, once per year
 4. While wielding a weapon
@@ -213,6 +213,9 @@ your anchor yourself in place relative to nearby [ELEMENT]
 
 
 
+
+
+
 ## Elements
 
 Cups or Hearts is Water. Clubs is Fire. Swords or Spades is Air. Coins or Diamonds is Earth.
@@ -311,9 +314,76 @@ Trump cards are conceptual.
 
 
 
+### Updates to shorten to fit on a page
+
+a geyser of [ELEMENT] bursts out of the ground wherever you point
+a geyser of [ELEMENT] bursts forth wherever you point
+
+While squeezing your eyes shut and holding your breath
+With eyes shut and breath held
+
+a chain of [ELEMENT] connects two people or objects you can see
+a chain of [ELEMENT] binds two people or objects you see
+
+you summon of swarm of imps from the plane of [ELEMENT]
+you summon of swarm of imps from the elemental plane of [ELEMENT]
+
+you make [ELEMENT] grow larger, more numerous, or more powerful
+nearby [ELEMENT] grows, or is otherwise amplified
+
+At the cost of rapidly fatiguing yourself
+At the cost of rapid fatigue
+
+At the cost of losing precious memories
+At the cost of precious memories
+
+After walking 7 times around the city walls
+After walking 7 times around the city 
+
+After sharing an embarrassing secret
+After sharing a shameful secret
+
+At the cost of dehydrating yourself
+At the cost of dehydration
+
+you gain understanding of the properties of any [ELEMENT] you sense
+you understand the properties of any [ELEMENT] you sense
+
+your mind is bombarded with visions of how to tinker with [ELEMENT]
+your mind is bombarded with visions of [ELEMENT]-technology
+
+*Move the precious metals down with the other long ones
+
+nearby [ELEMENT] becomes immune to manipulation by powers
+nearby [ELEMENT] becomes magically inert
+
+Whenever you see someone getting injured 
+Whenever you witness an injury
+
+Whenever someone nearby commits a crime
+Whenever you witness a crime
+
+Whenever someone answers a question you ask
+Whenever your question is answered
+
+[ELEMENT] you touch becomes intangible and invisible for 24 hours
+[ELEMENT] you touch becomes immaterial for a day
+
+the earth cracks open and swallows nearby [ELEMENT]
+fissures open and swallow nearby [ELEMENT]
+
+nearby wild animals gain permanent contempt for [ELEMENT].
+nearby animals gain permanent hatred of [ELEMENT]
+
+Whenever someone starts a conversation with you
+Whenever someone speaks to you
+
+At the cost of alienating your loved ones
+At the cost of alienating your friends and loved ones
 
 
-
+After planting a coin deep in the ground
+After planting a coin underground
 
 ---
 
@@ -348,7 +418,7 @@ Trump cards are conceptual.
 
 | Card # | Clubs                                                  | Diamonds/Coins                              | Cups/Hearts                  | Swords/Spades                                   |
 |--------|--------------------------------------------------------|---------------------------------------------|------------------------------|-------------------------------------------------|
-| A      | With a touch                                           | After planting a coin deep in the ground    | While sleeping               | Whenever someone looks at you                   |
+| A      | With a gesture                                           | After planting a coin deep in the ground    | While sleeping               | Whenever someone looks at you                   |
 | 2      | With a glance, once per day                            | In exchange for a drop of blood             | While awake                  | Whenever someone tries to hurt you              |
 | 3      | With a thought, once per year                          | At the cost of rapidly fatiguing yourself   | While drunk                  | Whenever someone answers a question you ask     |
 | 4      | While wielding a weapon                                | At the cost of your hair falling out        | While in midair              | Whenever someone lies to you                    |
@@ -415,7 +485,7 @@ Loose themes
 
 | Card # | Trigger                                                | Manifestation                                                     | Element     |
 |:------:|--------------------------------------------------------|-------------------------------------------------------------------|-------------|
-|    A   | With a touch                                           | you leave behind a trail of [ELEMENT]                             | fire        |
+|    A   | With a gesture                                           | you leave behind a trail of [ELEMENT]                             | fire        |
 |    2   | With a glance, once per day                            | you fire a beam of [ELEMENT] from your hands                      | light       |
 |    3   | With a thought, once per year                          | small bits of [ELEMENT] randomly appear around you                | electricity |
 |    4   | While wielding a weapon                                | you summon armor made of [ELEMENT]                                | wood        |
