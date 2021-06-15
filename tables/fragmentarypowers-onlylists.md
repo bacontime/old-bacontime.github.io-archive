@@ -103,7 +103,6 @@ you temporarily transform into an elemental of [ELEMENT]
 you weave illusions of [ELEMENT] around you
 you cannot be harmed by [ELEMENT]
 you teleport by stepping through [ELEMENT]
-Manifestation
 you leave behind a trail of [ELEMENT]
 you fire a beam of [ELEMENT] from your hands
 small bits of [ELEMENT] randomly appear around you
@@ -146,7 +145,6 @@ all nearby [ELEMENT] is pulled into a single point
 you freeze [ELEMENT] in time
 [ELEMENT] you touch is transformed into [ELEMENT]
 You reverse the flow of time for nearby [ELEMENT]
-Manifestation
 you destroy all nearby [ELEMENT]
 nearby [ELEMENT] shrinks or otherwise diminishes
 nearby [ELEMENT] is forgotten
@@ -186,7 +184,6 @@ shellfish
 friendship
 spirit
 time
-Element
 fire
 light
 electricity
@@ -229,7 +226,6 @@ cream
 rubber
 memory
 clay
-Element
 air
 weather
 sound

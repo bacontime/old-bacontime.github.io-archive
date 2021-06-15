@@ -1,3 +1,647 @@
+
+
+
+
+<h3 id="swords--spades">Trump Suit</h3>
+
+
+<table>
+	<colgroup><col style="min-width: 4em;"></col>
+	<col></col>
+	<col></col>
+	<col style="min-width: 6em;"></col>
+  </colgroup><thead>
+    <tr>
+      <th><br /></th>
+      <th>Trigger</th>
+      <th>Power</th>
+      <th>Element</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: center;">☆ <br /> <span style="display: block; font-size: x-small; line-height: 1em;">Fool / Excuse</span></th>
+      <td>While on a journey</td>
+      <td>you move unimpeded through or across [ELEMENT]</td>
+      <td>folly</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★1 <br /> <span style="display: block; font-size: x-small; line-height: 1em;">Pagat / Magician</span></th>
+      <td>While playing card games</td>
+      <td>you display great finesse with [ELEMENT]</td>
+      <td>trickery</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★2 <br /> <span style="font-size: x-small;">Popess</span></th>
+      <td>While reading a book</td>
+      <td>you disguise yourself as [ELEMENT]</td>
+      <td>secrecy</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★3 <br /> <span style="font-size: x-small;">Empress</span></th>
+      <td>If you have permission from the local authorities</td>
+      <td>you can easily pick up [ELEMENT] and carry it around</td>
+      <td>order</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★4 <br /> <span style="font-size: x-small;">Emperor</span></th>
+      <td>While relaxing in a comfy chair</td>
+      <td>everyone recognizes you as the undisputed master of [ELEMENT]</td>
+      <td>authority</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★5 <br /> <span style="font-size: x-small;">Pope</span></th>
+      <td>While on sacred ground</td>
+      <td>you temporarily grant someone else a [ELEMENT]-themed power</td>
+      <td>faith</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★6 <br /> <span style="font-size: x-small;">Lovers</span></th>
+      <td>While in love</td>
+      <td>everyone nearby gains a persistently increased desire for [ELEMENT]</td>
+      <td>love</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★7 <br /> <span style="font-size: x-small;">Chariot</span></th>
+      <td>While moving at least 5 km per hour</td>
+      <td>your speed scales in proportion to the amount of [ELEMENT] you are touching</td>
+      <td>war</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★8 <br /> <span style="font-size: x-small;">Justice</span></th>
+      <td>While in court</td>
+      <td>you summon a gadget that uses [ELEMENT] to fight crime</td>
+      <td>truth</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★9 <br /> <span style="font-size: x-small;">Hermit</span></th>
+      <td>While alone</td>
+      <td>[ELEMENT] cannot interact with you  nor you with it</td>
+      <td>solitude</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★10 <br /> <span style="display: block; font-size: x-small; line-height: 1em;">Wheel of Fortune</span></th>
+      <td>At random</td>
+      <td>you temporarily gain some random manifestation of [ELEMENT]-themed power</td>
+      <td>fortune</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★11 <br /> <span style="font-size: x-small;">Strength</span></th>
+      <td>While trying to get a dog to let go of something it shouldn’t be eating</td>
+      <td>your strength scales in proportion to the amount of [ELEMENT] you are touching</td>
+      <td>unruly canines</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★12 <br /> <span style="font-size: x-small;">Hangman</span></th>
+      <td>While upside-down</td>
+      <td>you anchor yourself in place relative to nearby [ELEMENT]</td>
+      <td>suspense</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★13 <br /> <span style="display: block; font-size: x-small; line-height: 1em;">Spooky Skeleton</span></th>
+      <td>When you die</td>
+      <td>nearby [ELEMENT] becomes deadly in your hands</td>
+      <td>death</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★14 <br /> <span style="font-size: x-small;">Temperance</span></th>
+      <td>While sober, alert, and well-rested</td>
+      <td>the effect [ELEMENT] has on you is moderated, strengthening if weak and weakening if strong</td>
+      <td>temperance</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★15 <br /> <span style="font-size: x-small;">Devil</span></th>
+      <td>While wearing nothing but a ridiculous hat</td>
+      <td>the spirit of [ELEMENT] temporarily takes over your mind</td>
+      <td>temptation</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★16 <br /> <span style="font-size: x-small;">Tower</span></th>
+      <td>While at least 10 meters above the ground</td>
+      <td>you temporarily enter the elemental plane of [ELEMENT]</td>
+      <td>arrogance</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★17 <br /> <span style="font-size: x-small;">Star</span></th>
+      <td>While you can see the stars</td>
+      <td>your soul is infused with the metaphorical essence of [ELEMENT]</td>
+      <td>peace</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★18 <br /> <span style="font-size: x-small;">Moon</span></th>
+      <td>When shellfish are near</td>
+      <td>you temporarily transform into an elemental of [ELEMENT]</td>
+      <td>shellfish</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★19 <br /> <span style="font-size: x-small;">Sun</span></th>
+      <td>During the day</td>
+      <td>you weave illusions of [ELEMENT] around you</td>
+      <td>friendship</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★20 <br /> <span style="font-size: x-small;">Judgement</span></th>
+      <td>Whenever it would help save your life</td>
+      <td>you cannot be harmed by [ELEMENT]</td>
+      <td>spirit</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">★21 <br /> <span style="font-size: x-small;">The World</span></th>
+      <td>All the time</td>
+      <td>you teleport by stepping through [ELEMENT]</td>
+      <td>time</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+<br /><br /><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 id="clubs">Clubs 🥍☘️</h3>
+
+<dl>
+  <dt>Loose themes</dt>
+  <dd>deliberate action, creation, fire</dd>
+</dl>
+
+<table>
+	<colgroup><col style="min-width: 3em;"></col>
+	<col></col>
+	<col></col>
+	<col style="min-width: 6em;"></col>
+  </colgroup><thead>
+    <tr>
+      <th style="text-align: center;"><br /></th>
+      <th>Trigger</th>
+      <th>Manifestation</th>
+      <th>Element</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: center;">♣A</th>
+      <td>With a gesture</td>
+      <td>you leave behind a trail of [ELEMENT]</td>
+      <td>fire</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣2</th>
+      <td>With a glance, once per day</td>
+      <td>you fire a beam of [ELEMENT] from your hands</td>
+      <td>light</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣3</th>
+      <td>With a thought, once per year</td>
+      <td>small bits of [ELEMENT] randomly appear around you</td>
+      <td>electricity</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣4</th>
+      <td>While wielding a weapon</td>
+      <td>you summon armor made of [ELEMENT]</td>
+      <td>wood</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣5</th>
+      <td>While chanting a magic phrase</td>
+      <td>you turn whatever you touch into [ELEMENT]</td>
+      <td>glass</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣6</th>
+      <td>While meditating</td>
+      <td>you summon constructs made of [ELEMENT]</td>
+      <td>geometry</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣7</th>
+      <td>While standing still and flexing</td>
+      <td>nearby [ELEMENT] grows, or is otherwise amplified</td>
+      <td>sugar</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣8</th>
+      <td>While punching</td>
+      <td>a thick wall of [ELEMENT] is summoned around you</td>
+      <td>motion</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣9</th>
+      <td>While aggressively voguing</td>
+      <td>[ELEMENT] leaks out of your skin</td>
+      <td>lava</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣10</th>
+      <td>While your eyes are shut and breath held</td>
+      <td>a large cube of [ELEMENT] appears above your head</td>
+      <td>thought</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣J</th>
+      <td>While singing from the heart</td>
+      <td>a geyser of [ELEMENT] bursts forth wherever you point</td>
+      <td>explosions</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣C</th>
+      <td>While eating</td>
+      <td>you vomit out a stream of [ELEMENT]</td>
+      <td>rust</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣Q</th>
+      <td>At will, after 1 minute of charge-up</td>
+      <td>a chain of [ELEMENT] binds two people or objects you see</td>
+      <td>fuel</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♣K</th>
+      <td>While walking</td>
+      <td>you summon of swarm of imps from the plane of [ELEMENT]</td>
+      <td>fruit</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br /><br />
+<br /><br />
+
+
+
+<h3 id="coins--diamonds">Coins / Diamonds 🪙💠</h3>
+
+<dl>
+  <dt>Loose themes</dt>
+  <dd>costly action, information, earth</dd>
+</dl>
+
+<table>
+	<colgroup><col style="min-width: 3em;"></col>
+	<col></col>
+	<col></col>
+	<col></col>
+  </colgroup><thead>
+    <tr>
+      <th style="text-align: center;"><br /></th>
+      <th>Trigger</th>
+      <th>Manifestation</th>
+      <th>Element</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: center;">♦A</th>
+      <td>After planting a coin in the ground</td>
+      <td>you see [ELEMENT] through walls</td>
+      <td>earth</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦2</th>
+      <td>In exchange for a drop of blood</td>
+      <td>you gain insight into the history of any [ELEMENT] you sense</td>
+      <td>filth</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦3</th>
+      <td>At the cost of rapid fatigue</td>
+      <td>your mind is bombarded with visions of how to tinker with [ELEMENT]</td>
+      <td>food</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦4</th>
+      <td>At the cost of your hair falling out</td>
+      <td>a moving song about [ELEMENT] appears in your mind</td>
+      <td>hair</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦5</th>
+      <td>At the cost of intense migraines</td>
+      <td>you teleport towards nearby [ELEMENT]</td>
+      <td>vermin</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦6</th>
+      <td>After an expensive burnt offering</td>
+      <td>you see the future trajectory of [ELEMENT]</td>
+      <td>clockwork</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦7</th>
+      <td>At the cost of dehydration</td>
+      <td>you perfectly recall all [ELEMENT] you have seen</td>
+      <td>iron</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦8</th>
+      <td>At a cost of 20 dollars per minute</td>
+      <td>nearby [ELEMENT] becomes clearly visible to all</td>
+      <td>fungus</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦9</th>
+      <td>At the cost of incontinence</td>
+      <td>you gain insight into avoiding [ELEMENT]</td>
+      <td>stone</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦10</th>
+      <td>After sharing a shameful secret</td>
+      <td>you understand the properties of any [ELEMENT] you sense</td>
+      <td>bone</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦J</th>
+      <td>As long as you keep your vows</td>
+      <td>you see a glowing path guiding you to the nearest [ELEMENT]</td>
+      <td>shadow</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦C</th>
+      <td>At the cost of precious memories</td>
+      <td>you hear secret whispers from nearby [ELEMENT]</td>
+      <td>gemstone</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦Q</th>
+      <td>At the cost of alienating your loved ones</td>
+      <td>you gain insight into using nearby [ELEMENT] to accomplish your goals</td>
+      <td>precious metal</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♦K</th>
+      <td>After walking 7 times around the city</td>
+      <td>you see the strengths and weaknesses of nearby [ELEMENT]</td>
+      <td>currency</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br /><br />
+<br /><br />
+
+
+
+
+<h3 id="cups--hearts">Cups / Hearts 🏆♥️</h3>
+
+<dl>
+  <dt>Loose themes</dt>
+  <dd>states of being, movement or alteration, water</dd>
+</dl>
+
+<table>
+	<colgroup><col style="min-width: 3em;"></col>
+	<col></col>
+	<col></col>
+	<col style="min-width: 5em;"></col>
+  </colgroup><thead>
+    <tr>
+      <th style="text-align: center;"><br /></th>
+      <th>Trigger</th>
+      <th>Manifestation</th>
+      <th>Element</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: center;">♥A</th>
+      <td>While sleeping</td>
+      <td>you can telekinetically manipulate [ELEMENT] with your mind</td>
+      <td>water</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥2</th>
+      <td>While awake</td>
+      <td>you can mold [ELEMENT] like clay</td>
+      <td>blood</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥3</th>
+      <td>While drunk</td>
+      <td>you summon nearby [ELEMENT] into your hands</td>
+      <td>slime</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥4</th>
+      <td>While in midair</td>
+      <td>[ELEMENT] in your hands becomes unbreakable</td>
+      <td>ice</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥5</th>
+      <td>While underwater</td>
+      <td>nearby [ELEMENT] begins to spin and twist</td>
+      <td>flesh</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥6</th>
+      <td>While injured</td>
+      <td>[ELEMENT] is repelled from you</td>
+      <td>poison</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥7</th>
+      <td>While angry</td>
+      <td>you animate nearby [ELEMENT] into a golem</td>
+      <td>fish</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥8</th>
+      <td>While in a crowd</td>
+      <td>all nearby [ELEMENT] is pulled into a single point</td>
+      <td>alcohol</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥9</th>
+      <td>While screaming</td>
+      <td>[ELEMENT] sticks to you like katamari glue</td>
+      <td>shell</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥10</th>
+      <td>While dizzy</td>
+      <td>[ELEMENT] follows you like a loyal puppy</td>
+      <td>moss</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥J</th>
+      <td>While uncomfortably warm</td>
+      <td>[ELEMENT] you touch is imbued with the properties of [ELEMENT]</td>
+      <td>cream</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥C</th>
+      <td>While moving northwards</td>
+      <td>you freeze [ELEMENT] in time</td>
+      <td>rubber</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥Q</th>
+      <td>While sad</td>
+      <td>[ELEMENT] you touch is transformed into [ELEMENT]</td>
+      <td>memory</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♥K</th>
+      <td>While indoors or underground</td>
+      <td>You reverse the flow of time for nearby [ELEMENT]</td>
+      <td>clay</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br /><br />
+<br /><br />
+
+
+
+<h3 id="swords--spades">Swords / Spades 🗡️♠️</h3>
+
+<dl>
+  <dt>Loose themes</dt>
+  <dd>minimal control, destruction, air</dd>
+</dl>
+
+<table>
+	<colgroup><col style="min-width: 3em;"></col>
+	<col></col>
+	<col></col>
+	<col style="min-width: 7em;"></col>
+  </colgroup><thead>
+    <tr>
+      <th style="text-align: center;"><br /></th>
+      <th>Trigger</th>
+      <th>Manifestation</th>
+      <th>Element</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: center;">♠A</th>
+      <td>Whenever someone looks at you</td>
+      <td>you destroy all nearby [ELEMENT]</td>
+      <td>air</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠2</th>
+      <td>Whenever someone tries to hurt you</td>
+      <td>nearby [ELEMENT] shrinks or otherwise diminishes</td>
+      <td>weather</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠3</th>
+      <td>Whenever your question is answered</td>
+      <td>nearby [ELEMENT] is forgotten</td>
+      <td>sound</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠4</th>
+      <td>Whenever someone lies to you</td>
+      <td>[ELEMENT] that you touch vanishes</td>
+      <td>radioactive dust</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠5</th>
+      <td>Whenever someone speaks to you</td>
+      <td>all [ELEMENT] you see splits in twain</td>
+      <td>gas</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠6</th>
+      <td>Whenever you hear a bird chirping</td>
+      <td>nearby animals gain permanent hatred of [ELEMENT]</td>
+      <td>wind</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠7</th>
+      <td>Whenever it rains or snows</td>
+      <td>fissures open and swallow nearby [ELEMENT]</td>
+      <td>smoke</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠8</th>
+      <td>Whenever someone steps on your shadow</td>
+      <td>[ELEMENT] that you touch shatters</td>
+      <td>powder</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠9</th>
+      <td>Whenever someone says your name</td>
+      <td>[ELEMENT] that you touch is yeeted up into space</td>
+      <td>foliage</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠10</th>
+      <td>Whenever you witness a crime</td>
+      <td>nearby [ELEMENT] violently explodes</td>
+      <td>mist</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠J</th>
+      <td>Whenever you witness a disaster</td>
+      <td>[ELEMENT] you touch becomes immaterial for a day</td>
+      <td>weaponry</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠C</th>
+      <td>Whenever you witness an injury</td>
+      <td>[ELEMENT] is randomly teleported away at your touch</td>
+      <td>void</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠Q</th>
+      <td>Whenever someone hears your voice</td>
+      <td>nearby [ELEMENT] is consumed by [ELEMENT]</td>
+      <td>paper</td>
+    </tr>
+    <tr>
+      <th style="text-align: center;">♠K</th>
+      <td>Whenever you get struck by lightning</td>
+      <td>nearby [ELEMENT] becomes magically inert</td>
+      <td>music</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
 # Tarot based power generation
 
 1. Draw a card for the triggering condition.
