@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="def.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="290.98295"
+     inkscape:cy="255.06488"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.999;fill:#0000ff;stroke-width:0.1;paint-order:markers fill stroke"
+       d="m 8.5526247,12.027129 -4.5435819,47.039435 7.7508162,36.883194 38.754081,27.796032 6.681737,8.81989 9.621705,-8.28535 36.081388,-11.75986 19.51067,-22.183371 4.81085,-25.390604 -0.80181,-24.856067 -5.87992,-29.666917 -6.1472,7.216278 L 92.207986,21.648831 70.291885,9.621703 63.342876,4.0090428 55.85933,13.630746 48.910324,22.717909 32.072344,24.054257 16.303441,18.976136 Z"
+       id="path839" />
+    <path
+       style="opacity:0.999;fill:#ffffff;stroke-width:0.1;paint-order:markers fill stroke"
+       d="m 66.282842,18.174328 -4.543581,98.087912 24.054257,-7.75081 21.648832,-16.570712 9.88897,-34.210501 -2.93996,-32.874151 c 0,0 -24.32153,4.276313 -25.390608,4.543582 -1.069078,0.267269 -22.71791,-11.22532 -22.71791,-11.22532 z"
+       id="path833" />
+  </g>
+</svg>

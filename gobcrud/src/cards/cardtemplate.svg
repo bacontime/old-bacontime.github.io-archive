@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.5in"
+   height="3.5in"
+   viewBox="0 0 63.5 88.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cardtemplate.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.087417397"
+     inkscape:cx="815.02692"
+     inkscape:cy="860.30635"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1914"
+       style="opacity:0.999;fill:#ffff00;stroke:#000000;stroke-width:1.51181;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 171.70312 446.86523 L 171.70312 479.43555 L 185.28516 477.49609 L 215.87109 476.23047 L 235.08203 479.76953 L 263.89844 481.0332 L 305.60742 476.48438 L 331.13672 478.50586 L 347.82031 480.78125 L 346.30469 475.47266 L 349.08398 473.70312 L 346.55664 470.16406 L 346.05078 466.37305 L 351.61328 466.12109 L 347.82031 461.06445 L 346.05078 458.03125 L 345.54492 454.49219 L 348.07422 450.70117 L 347.34375 446.86523 L 171.70312 446.86523 z "
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M -3.7795637,-3.7443967 73.578244,-4.2835727"
+       id="path1433" />
+    <rect
+       style="opacity:0.999;fill:#ff0000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1391"
+       width="63.5"
+       height="41.275002"
+       x="0"
+       y="47.624996" />
+    <rect
+       style="opacity:0.999;fill:none;stroke-width:0.4;paint-order:markers fill stroke;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1030"
+       width="63.5"
+       height="88.900002"
+       x="-7.1054274e-15"
+       y="-7.6293946e-07" />
+    <g
+       id="g1309"
+       transform="translate(0.11394752,-16.331742)">
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         width="10.16"
+         height="10.16"
+         preserveAspectRatio="none"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         id="image840"
+         x="6.3500004"
+         y="50.621742" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="50.621742"
+         x="16.51"
+         id="image840-7"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="50.621742"
+         x="26.669998"
+         id="image840-72"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="50.621742"
+         x="36.830002"
+         id="image840-4"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="50.621742"
+         x="46.990002"
+         id="image840-9"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+    </g>
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+       xlink:href="../img/gobbo_cleaned_nobg.png"
+       y="8.8900003"
+       x="6.4639478"
+       id="image1042"
+       style="stroke-width:7.45932;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="25.4"
+       width="25.4" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-3"
+       width="63.5"
+       height="88.900002"
+       x="31.75"
+       y="-209.24762"
+       transform="rotate(90)" />
+    <g
+       id="g1175"
+       transform="translate(-1.1335452)">
+      <g
+         id="g1028-4"
+         transform="translate(153.12806,22.875031)">
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           y="20.82119"
+           x="2.6468618"
+           id="image840-48"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           y="20.82119"
+           x="12.806862"
+           id="image840-7-0"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           y="20.82119"
+           x="22.96686"
+           id="image840-72-3"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           y="20.82119"
+           x="33.126862"
+           id="image840-4-8"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           y="20.82119"
+           x="43.286861"
+           id="image840-9-0"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           y="30.981188"
+           x="2.6468618"
+           id="image901-2"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           y="30.981188"
+           x="12.806862"
+           id="image901-9-4"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           y="30.981188"
+           x="22.96686"
+           id="image901-7-6"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           y="30.981188"
+           x="33.126862"
+           id="image901-6-2"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           y="30.981188"
+           x="43.286861"
+           id="image901-77-9"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           y="41.14119"
+           x="2.6468618"
+           id="image962-29"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           y="41.14119"
+           x="12.806862"
+           id="image962-2-2"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           y="41.14119"
+           x="22.96686"
+           id="image962-8-0"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           y="41.14119"
+           x="33.126862"
+           id="image962-1-5"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           y="41.14119"
+           x="43.286861"
+           id="image962-7-8"
+           style="stroke-width:4.26667;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="10.16"
+           width="10.16" />
+      </g>
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+         xlink:href="../img/gobbo_cleaned_nobg.png"
+         y="43.69622"
+         x="125.28741"
+         id="image1042-4"
+         style="stroke-width:6.21457;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="30.487514"
+         width="30.487514" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264582"
+       x="164.86111"
+       y="41.895927"
+       id="text1156"><tspan
+         sodipodi:role="line"
+         id="tspan1154"
+         x="164.86111"
+         y="41.895927"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264582">Gorblin</tspan></text>
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-1"
+       width="63.5"
+       height="88.900002"
+       x="-219.90775"
+       y="29.850927" />
+    <g
+       id="g1028-47"
+       transform="translate(-216.20461,59.651481)">
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="20.82119"
+         x="2.6468618"
+         id="image840-6"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="20.82119"
+         x="12.806862"
+         id="image840-7-6"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="20.82119"
+         x="22.96686"
+         id="image840-72-31"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="20.82119"
+         x="33.126862"
+         id="image840-4-82"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="20.82119"
+         x="43.286861"
+         id="image840-9-2"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="30.981188"
+         x="2.6468618"
+         id="image901-20"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="30.981188"
+         x="12.806862"
+         id="image901-9-5"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="30.981188"
+         x="22.96686"
+         id="image901-7-9"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="30.981188"
+         x="33.126862"
+         id="image901-6-24"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="30.981188"
+         x="43.286861"
+         id="image901-77-0"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="41.14119"
+         x="2.6468618"
+         id="image962-6"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="41.14119"
+         x="12.806862"
+         id="image962-2-9"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="41.14119"
+         x="22.96686"
+         id="image962-8-8"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="41.14119"
+         x="33.126862"
+         id="image962-1-1"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="41.14119"
+         x="43.286861"
+         id="image962-7-7"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+    </g>
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+       xlink:href="../img/gobbo_cleaned_nobg.png"
+       y="32.380596"
+       x="-214.43813"
+       id="image1042-8"
+       style="stroke-width:3.72966;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="50.799999"
+       width="50.799999" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264582"
+       x="31.813494"
+       y="8.3731995"
+       id="text1156-5"><tspan
+         sodipodi:role="line"
+         id="tspan1154-3"
+         x="31.813492"
+         y="8.3731995"
+         style="font-weight:bold;font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264582">CRITTERNAME</tspan></text>
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 6.4639479,44.45 H 57.263948"
+       id="path1367" />
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 6.3499997,47.824996 H 57.15"
+       id="path1367-0" />
+    <g
+       id="g1309-1"
+       transform="rotate(90,-0.21386122,-11.36416)">
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         y="50.621742"
+         x="6.3500004"
+         id="image840-8"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="10.16"
+         width="10.16" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         width="10.16"
+         height="10.16"
+         preserveAspectRatio="none"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         id="image840-7-5"
+         x="16.51"
+         y="50.621742" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         width="10.16"
+         height="10.16"
+         preserveAspectRatio="none"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         id="image840-72-4"
+         x="26.669998"
+         y="50.621742" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         width="10.16"
+         height="10.16"
+         preserveAspectRatio="none"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         id="image840-4-0"
+         x="36.830002"
+         y="50.621742" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+         xlink:href="../img/heart.png"
+         width="10.16"
+         height="10.16"
+         preserveAspectRatio="none"
+         style="stroke-width:4.26667;image-rendering:optimizeQuality"
+         id="image840-9-08"
+         x="46.990002"
+         y="50.621742" />
+    </g>
+    <g
+       id="g1491"
+       transform="translate(0,-2.6924829)">
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901"
+         x="31.750002"
+         y="19.354965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="19.354965"
+         x="36.830002"
+         id="image901-9"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="19.354965"
+         x="41.91"
+         id="image901-7"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="19.354965"
+         x="46.990002"
+         id="image901-6"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="19.354965"
+         x="52.07"
+         id="image901-77"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962"
+         x="31.750002"
+         y="24.434967" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="24.434967"
+         x="36.830002"
+         id="image962-2"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="24.434967"
+         x="41.91"
+         id="image962-8"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="24.434967"
+         x="46.990002"
+         id="image962-1"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="24.434967"
+         x="52.07"
+         id="image962-7"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="14.274965"
+         x="31.750002"
+         id="image962-9"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="14.274965"
+         x="36.829998"
+         id="image962-2-24"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="14.274965"
+         x="41.91"
+         id="image962-8-5"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="14.274965"
+         x="46.990002"
+         id="image962-1-3"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="14.274965"
+         x="52.069996"
+         id="image962-7-77"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-73-7"
+         x="31.863953"
+         y="29.210001" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-9-49-0"
+         x="36.943951"
+         y="29.210001" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-7-5-6"
+         x="42.023952"
+         y="29.210001" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-6-4-3"
+         x="47.103954"
+         y="29.210001" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-77-92-6"
+         x="52.183949"
+         y="29.210001" />
+    </g>
+    <rect
+       style="opacity:0.999;fill:#ff0000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1391-1"
+       width="63.5"
+       height="41.275002"
+       x="-53.553047"
+       y="167.03227" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-8"
+       width="63.5"
+       height="88.900002"
+       x="-53.553047"
+       y="119.40727" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.16"
+       height="10.16"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-7-9"
+       x="-36.9291"
+       y="153.69727" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.16"
+       height="10.16"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-4-2"
+       x="-16.609098"
+       y="153.69727" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+       xlink:href="../img/gobbo_cleaned_nobg.png"
+       width="25.4"
+       height="25.4"
+       preserveAspectRatio="none"
+       style="stroke-width:7.45932;image-rendering:optimizeQuality"
+       id="image1042-5"
+       x="-47.0891"
+       y="128.29727" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264582"
+       x="-21.739555"
+       y="127.78047"
+       id="text1156-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan1154-3-8"
+         x="-21.739557"
+         y="127.78047"
+         style="font-weight:bold;font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264582">CRITTERNAME</tspan></text>
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m -47.089101,163.85727 h 50.8"
+       id="path1367-2" />
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m -47.203049,167.23227 h 50.8"
+       id="path1367-0-7" />
+    <g
+       id="g1491-3"
+       transform="translate(-53.553049,116.71479)">
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="19.354965"
+         x="31.750002"
+         id="image901-1"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-9-0"
+         x="36.830002"
+         y="19.354965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-7-4"
+         x="41.91"
+         y="19.354965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-6-5"
+         x="46.990002"
+         y="19.354965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image901-77-2"
+         x="52.07"
+         y="19.354965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         y="24.434967"
+         x="31.750002"
+         id="image962-3"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-2-97"
+         x="36.830002"
+         y="24.434967" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-8-06"
+         x="41.91"
+         y="24.434967" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-1-8"
+         x="46.990002"
+         y="24.434967" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-7-6"
+         x="52.07"
+         y="24.434967" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-9-9"
+         x="31.750002"
+         y="14.274965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-2-24-9"
+         x="36.829998"
+         y="14.274965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-8-5-0"
+         x="41.91"
+         y="14.274965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-1-3-9"
+         x="46.990002"
+         y="14.274965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+         xlink:href="../img/brain.png"
+         width="5.0799999"
+         height="5.0799999"
+         preserveAspectRatio="none"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         id="image962-7-77-9"
+         x="52.069996"
+         y="14.274965" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="29.210001"
+         x="31.863953"
+         id="image901-73-7-9"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="29.210001"
+         x="36.943951"
+         id="image901-9-49-0-6"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="29.210001"
+         x="42.023952"
+         id="image901-7-5-6-0"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="29.210001"
+         x="47.103954"
+         id="image901-6-4-3-1"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+         xlink:href="../img/speed.png"
+         y="29.210001"
+         x="52.183949"
+         id="image901-77-92-6-7"
+         style="stroke-width:8.53334;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="5.0799999"
+         width="5.0799999" />
+    </g>
+    <rect
+       style="opacity:0.999;fill:#ff0000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1391-1-9"
+       width="63.5"
+       height="41.275002"
+       x="45.430004"
+       y="165.85834" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-8-1"
+       width="63.5"
+       height="88.900002"
+       x="45.430004"
+       y="118.23333" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+       xlink:href="../img/gobbo_cleaned_nobg.png"
+       width="30.48"
+       height="30.48"
+       preserveAspectRatio="none"
+       style="stroke-width:6.2161;image-rendering:optimizeQuality"
+       id="image1042-5-9"
+       x="64.399178"
+       y="128.1804" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264582"
+       x="69.897209"
+       y="125.30634"
+       id="text1156-5-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan1154-3-8-7"
+         x="69.897209"
+         y="125.30634"
+         style="font-weight:bold;font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264582">CRITTERNAME</tspan></text>
+    <path
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 51.780004,166.05834 H 102.58"
+       id="path1367-0-7-2" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="129.83308"
+       x="47.681145"
+       id="image901-1-6"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+       xlink:href="../img/brain.png"
+       y="133.11009"
+       x="33.753769"
+       id="image962-3-0"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+       xlink:href="../img/brain.png"
+       width="5.0799999"
+       height="5.0799999"
+       preserveAspectRatio="none"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       id="image962-9-9-3"
+       x="35.693306"
+       y="139.13518" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="139.99309"
+       x="47.681145"
+       id="image901-73-7-9-4"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.160001"
+       height="10.160001"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-72-1-3-11"
+       x="96.392509"
+       y="120.57417" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.160001"
+       height="10.160001"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-72-1-3-11-1"
+       x="96.392509"
+       y="130.73416" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.160001"
+       height="10.160001"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-72-1-3-11-8"
+       x="96.392509"
+       y="140.89413" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.160001"
+       height="10.160001"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-72-1-3-11-7"
+       x="96.392509"
+       y="151.05414" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+       xlink:href="../img/heart.png"
+       width="10.160001"
+       height="10.160001"
+       preserveAspectRatio="none"
+       style="stroke-width:4.26667;image-rendering:optimizeQuality"
+       id="image840-72-1-3-11-2"
+       x="96.392509"
+       y="161.21414" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="145.07309"
+       x="47.681145"
+       id="image901-1-6-4"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="150.15309"
+       x="47.681145"
+       id="image901-1-6-4-1"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="150.02292"
+       x="30.469582"
+       id="image901-1-6-4-3"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+       xlink:href="../img/speed.png"
+       y="134.91309"
+       x="47.681145"
+       id="image901-1-6-4-3-6"
+       style="stroke-width:8.53334;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5.0799999"
+       width="5.0799999" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\magic.png"
+       xlink:href="../img/magic.png"
+       width="5.0799999"
+       height="5.0799999"
+       preserveAspectRatio="none"
+       style="stroke-width:8.53333;image-rendering:optimizeQuality"
+       id="image2000"
+       x="52.761147"
+       y="129.83308" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2"
+       width="60.599998"
+       height="110.6"
+       x="137.36501"
+       y="120.12501" />
+    <image
+       sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+       xlink:href="../img/gobbo_cleaned_nobg.png"
+       width="38.099998"
+       height="38.099998"
+       preserveAspectRatio="none"
+       style="stroke-width:4.97288;image-rendering:optimizeQuality"
+       id="image1042-5-9-8"
+       x="61.741489"
+       y="271.92633" />
+    <rect
+       style="opacity:0.999;fill:#ff0000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1391-1-9-6"
+       width="63.5"
+       height="41.275002"
+       x="48.946346"
+       y="333.74573" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2"
+       width="61"
+       height="111.00001"
+       x="268.39417"
+       y="121.38168" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-1"
+       width="69.849998"
+       height="120.65"
+       x="404.20502"
+       y="113.23666" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-6"
+       width="70"
+       height="120"
+       x="45.602322"
+       y="257.69595" />
+    <rect
+       style="opacity:0.999;fill:#008000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-6-1"
+       width="50.799999"
+       height="88.900002"
+       x="260.10001"
+       y="259.69168" />
+    <rect
+       style="opacity:0.999;fill:#ffaaaa;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-6-17"
+       width="63.5"
+       height="108.85714"
+       x="260.34439"
+       y="377.13107" />
+    <rect
+       style="opacity:0.999;fill:#008000;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-6-8"
+       width="70"
+       height="120"
+       x="389.29001"
+       y="252.46577" />
+    <path
+       id="path1914-3"
+       style="opacity:0.999;fill:#ffff00;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 45.602322,257.69595 v 8.61756 l 3.593581,-0.51314 8.092527,-0.33487 5.082895,0.93638 7.624341,0.33435 11.035501,-1.20355 6.754627,0.53485 4.4142,0.60203 -0.401008,-1.40456 0.735354,-0.46819 -0.668692,-0.93638 -0.133842,-1.00304 1.471745,-0.0667 -1.003557,-1.3379 -0.468188,-0.80254 -0.133842,-0.93637 0.669211,-1.00304 -0.193271,-1.01493 z" />
+    <rect
+       style="opacity:0.999;fill:#d35f5f;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1391-1-9-6-0"
+       width="63.5"
+       height="88.900002"
+       x="-27.855318"
+       y="285.55322" />
+    <rect
+       style="opacity:0.999;fill:#e9afaf;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-2-6-8-9"
+       width="70"
+       height="120"
+       x="-66.032555"
+       y="-447.90701"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1030-2-3"
+       width="59.599998"
+       height="59.599998"
+       x="205.91695"
+       y="-117.12927" />
+    <g
+       id="g1175-6"
+       transform="matrix(1.21721,0,0,1.21721,184.73008,-111.65934)"
+       style="stroke-width:0.821551">
+      <g
+         id="g1028-4-9"
+         transform="translate(153.12806,22.875031)"
+         style="stroke-width:0.821551">
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image840-48-3"
+           x="2.6468618"
+           y="20.82119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image840-7-0-9"
+           x="12.806862"
+           y="20.82119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image840-72-3-7"
+           x="22.96686"
+           y="20.82119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image840-4-8-2"
+           x="33.126862"
+           y="20.82119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\heart.png"
+           xlink:href="../img/heart.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image840-9-0-1"
+           x="43.286861"
+           y="20.82119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image901-2-8"
+           x="2.6468618"
+           y="30.981188" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image901-9-4-6"
+           x="12.806862"
+           y="30.981188" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image901-7-6-2"
+           x="22.96686"
+           y="30.981188" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image901-6-2-9"
+           x="33.126862"
+           y="30.981188" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\speed.png"
+           xlink:href="../img/speed.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image901-77-9-0"
+           x="43.286861"
+           y="30.981188" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image962-29-2"
+           x="2.6468618"
+           y="41.14119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image962-2-2-7"
+           x="12.806862"
+           y="41.14119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image962-8-0-0"
+           x="22.96686"
+           y="41.14119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image962-1-5-2"
+           x="33.126862"
+           y="41.14119" />
+        <image
+           sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\brain.png"
+           xlink:href="../img/brain.png"
+           width="10.16"
+           height="10.16"
+           preserveAspectRatio="none"
+           style="stroke-width:3.50529;image-rendering:optimizeQuality"
+           id="image962-7-8-1"
+           x="43.286861"
+           y="41.14119" />
+      </g>
+      <image
+         sodipodi:absref="C:\Users\RobertWinslow\Documents\website\bacontime.github.io\bacontime.github.io\gobcrud\src\img\gobbo_cleaned_nobg.png"
+         xlink:href="../img/gobbo_cleaned_nobg.png"
+         width="30.487514"
+         height="30.487514"
+         preserveAspectRatio="none"
+         style="stroke-width:5.10559;image-rendering:optimizeQuality"
+         id="image1042-4-3"
+         x="125.28741"
+         y="43.69622" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264582"
+       x="348.37723"
+       y="-58.298664"
+       id="text1156-3"><tspan
+         sodipodi:role="line"
+         id="tspan1154-1"
+         x="348.37723"
+         y="-58.298664"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264582">Gorblin</tspan></text>
+  </g>
+</svg>
